@@ -1,0 +1,33 @@
+Cityscapes Evaluation Analysis
+============================================================
+Input file            : Data_files\evaluation_results_mobile.txt
+Images processed      : 267
+
+--- Overall Metrics (N/A entries ignored) ---
+Average Inference Time: 0.1346 s  (from 267 values)
+Overall mIoU          : 53.9959%  (from 267 values)
+
+--- Average IoU per Class (N/A entries ignored) ---
+Class                Avg IoU   Valid     N/A
+--------------------------------------------
+road                96.7415%     267       0
+sidewalk            65.9636%     266       1
+building            84.2697%     267       0
+wall                13.1256%     204      63
+fence               22.6933%     210      57
+pole                47.5668%     267       0
+traffic light       35.4533%     230      37
+traffic sign        57.2660%     267       0
+vegetation          84.3603%     266       1
+terrain             15.4904%     181      86
+sky                 82.8550%     248      19
+person              49.3754%     263       4
+rider               24.2883%     167     100
+car                 79.1739%     265       2
+truck               13.9948%      83     184
+bus                 20.1288%      77     190
+train               18.7168%      41     226
+motorcycle          16.8918%      85     182
+bicycle             42.0021%     215      52
+
+

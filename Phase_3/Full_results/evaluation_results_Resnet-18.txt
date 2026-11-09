@@ -1,0 +1,6422 @@
+Cityscapes Inference Evaluation Log
+==================================================
+
+Image [1/267]: frankfurt_000000_000294
+Inference Time : 0.0938 s
+Overall mIoU   : 45.36%
+Per-Class IoU  :
+    road           : 97.73%
+    sidewalk       : 86.15%
+    building       : 89.92%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 34.47%
+    traffic light  : 0.00%
+    traffic sign   : 40.23%
+    vegetation     : 87.25%
+    terrain        : N/A
+    sky            : 93.35%
+    person         : 64.43%
+    rider          : N/A
+    car            : 86.93%
+    truck          : N/A
+    bus            : 0.00%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [2/267]: frankfurt_000000_000576
+Inference Time : 0.0729 s
+Overall mIoU   : 58.68%
+Per-Class IoU  :
+    road           : 99.09%
+    sidewalk       : 91.99%
+    building       : 93.57%
+    wall           : N/A
+    fence          : 10.95%
+    pole           : 5.48%
+    traffic light  : N/A
+    traffic sign   : 63.57%
+    vegetation     : 91.23%
+    terrain        : 0.00%
+    sky            : 93.58%
+    person         : 0.00%
+    rider          : 62.43%
+    car            : 95.35%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 55.60%
+--------------------------------------------------
+Image [3/267]: frankfurt_000000_001016
+Inference Time : 0.0788 s
+Overall mIoU   : 57.57%
+Per-Class IoU  :
+    road           : 95.25%
+    sidewalk       : 48.78%
+    building       : 98.09%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 53.14%
+    traffic light  : 0.00%
+    traffic sign   : 83.92%
+    vegetation     : 74.52%
+    terrain        : N/A
+    sky            : N/A
+    person         : 66.51%
+    rider          : 79.75%
+    car            : 90.74%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 57.71%
+--------------------------------------------------
+Image [4/267]: frankfurt_000000_001236
+Inference Time : 0.0816 s
+Overall mIoU   : 45.29%
+Per-Class IoU  :
+    road           : 97.64%
+    sidewalk       : 41.97%
+    building       : 59.47%
+    wall           : 0.00%
+    fence          : 64.53%
+    pole           : 33.00%
+    traffic light  : 34.61%
+    traffic sign   : 59.65%
+    vegetation     : 93.86%
+    terrain        : 0.00%
+    sky            : 94.74%
+    person         : 44.85%
+    rider          : 0.00%
+    car            : 93.67%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 6.59%
+--------------------------------------------------
+Image [5/267]: frankfurt_000000_001751
+Inference Time : 0.0855 s
+Overall mIoU   : 55.93%
+Per-Class IoU  :
+    road           : 97.89%
+    sidewalk       : 70.17%
+    building       : 92.97%
+    wall           : N/A
+    fence          : N/A
+    pole           : 15.57%
+    traffic light  : 0.00%
+    traffic sign   : 48.17%
+    vegetation     : 94.03%
+    terrain        : N/A
+    sky            : 96.18%
+    person         : 10.09%
+    rider          : 64.28%
+    car            : 92.66%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 45.02%
+--------------------------------------------------
+Image [6/267]: frankfurt_000000_002196
+Inference Time : 0.0695 s
+Overall mIoU   : 48.89%
+Per-Class IoU  :
+    road           : 98.75%
+    sidewalk       : 81.03%
+    building       : 92.74%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 23.98%
+    traffic light  : 60.06%
+    traffic sign   : 47.46%
+    vegetation     : 23.14%
+    terrain        : N/A
+    sky            : 97.44%
+    person         : 70.00%
+    rider          : N/A
+    car            : 89.92%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [7/267]: frankfurt_000000_002963
+Inference Time : 0.0680 s
+Overall mIoU   : 51.66%
+Per-Class IoU  :
+    road           : 98.56%
+    sidewalk       : 86.71%
+    building       : 80.81%
+    wall           : 0.00%
+    fence          : 73.39%
+    pole           : 58.57%
+    traffic light  : 43.97%
+    traffic sign   : 50.15%
+    vegetation     : 91.94%
+    terrain        : 0.00%
+    sky            : 95.42%
+    person         : 0.00%
+    rider          : N/A
+    car            : 88.82%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 36.03%
+    bicycle        : 22.15%
+--------------------------------------------------
+Image [8/267]: frankfurt_000000_003025
+Inference Time : 0.0735 s
+Overall mIoU   : 58.43%
+Per-Class IoU  :
+    road           : 97.28%
+    sidewalk       : 64.18%
+    building       : 94.30%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 46.99%
+    traffic light  : 67.10%
+    traffic sign   : 52.53%
+    vegetation     : 90.46%
+    terrain        : N/A
+    sky            : 95.22%
+    person         : 4.41%
+    rider          : N/A
+    car            : 91.07%
+    truck          : 88.09%
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 84.79%
+--------------------------------------------------
+Image [9/267]: frankfurt_000000_003357
+Inference Time : 0.0629 s
+Overall mIoU   : 61.45%
+Per-Class IoU  :
+    road           : 94.93%
+    sidewalk       : 51.97%
+    building       : 95.36%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 33.51%
+    traffic light  : 62.91%
+    traffic sign   : 65.79%
+    vegetation     : 92.47%
+    terrain        : N/A
+    sky            : 95.53%
+    person         : N/A
+    rider          : N/A
+    car            : 93.07%
+    truck          : N/A
+    bus            : N/A
+    train          : 69.70%
+    motorcycle     : N/A
+    bicycle        : 43.59%
+--------------------------------------------------
+Image [10/267]: frankfurt_000000_003920
+Inference Time : 0.0677 s
+Overall mIoU   : 55.87%
+Per-Class IoU  :
+    road           : 95.79%
+    sidewalk       : 74.76%
+    building       : 88.48%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 27.88%
+    traffic light  : 40.71%
+    traffic sign   : 60.53%
+    vegetation     : 91.64%
+    terrain        : 0.00%
+    sky            : 60.47%
+    person         : 18.07%
+    rider          : N/A
+    car            : 90.27%
+    truck          : N/A
+    bus            : 77.69%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [11/267]: frankfurt_000000_004617
+Inference Time : 0.0653 s
+Overall mIoU   : 49.31%
+Per-Class IoU  :
+    road           : 90.66%
+    sidewalk       : 23.55%
+    building       : 83.54%
+    wall           : N/A
+    fence          : 53.17%
+    pole           : 48.70%
+    traffic light  : 0.00%
+    traffic sign   : 0.00%
+    vegetation     : 92.49%
+    terrain        : 25.10%
+    sky            : 91.40%
+    person         : 0.00%
+    rider          : N/A
+    car            : 83.09%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [12/267]: frankfurt_000000_005543
+Inference Time : 0.0684 s
+Overall mIoU   : 37.48%
+Per-Class IoU  :
+    road           : 98.59%
+    sidewalk       : 50.28%
+    building       : 53.86%
+    wall           : 0.00%
+    fence          : 21.98%
+    pole           : 38.22%
+    traffic light  : 0.00%
+    traffic sign   : 44.06%
+    vegetation     : 89.34%
+    terrain        : 78.03%
+    sky            : 86.95%
+    person         : 0.75%
+    rider          : N/A
+    car            : 89.75%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 22.82%
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [13/267]: frankfurt_000000_005898
+Inference Time : 0.0611 s
+Overall mIoU   : 42.13%
+Per-Class IoU  :
+    road           : 97.96%
+    sidewalk       : 86.51%
+    building       : 21.06%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 35.05%
+    traffic light  : 8.34%
+    traffic sign   : 31.21%
+    vegetation     : 91.23%
+    terrain        : 43.78%
+    sky            : 72.94%
+    person         : 44.70%
+    rider          : 8.26%
+    car            : 62.87%
+    truck          : 4.63%
+    bus            : 61.45%
+    train          : N/A
+    motorcycle     : 46.15%
+    bicycle        : N/A
+--------------------------------------------------
+Image [14/267]: frankfurt_000000_006589
+Inference Time : 0.0673 s
+Overall mIoU   : 38.15%
+Per-Class IoU  :
+    road           : 98.85%
+    sidewalk       : 31.87%
+    building       : 85.11%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 42.28%
+    traffic light  : 10.47%
+    traffic sign   : 0.00%
+    vegetation     : 90.11%
+    terrain        : 43.75%
+    sky            : 88.45%
+    person         : N/A
+    rider          : N/A
+    car            : 81.39%
+    truck          : 0.00%
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [15/267]: frankfurt_000000_007365
+Inference Time : 0.0651 s
+Overall mIoU   : 47.70%
+Per-Class IoU  :
+    road           : 98.74%
+    sidewalk       : 40.12%
+    building       : 91.41%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 39.46%
+    traffic light  : N/A
+    traffic sign   : 0.00%
+    vegetation     : 87.62%
+    terrain        : 65.19%
+    sky            : 85.34%
+    person         : 0.00%
+    rider          : N/A
+    car            : 66.90%
+    truck          : 0.00%
+    bus            : 93.02%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [16/267]: frankfurt_000000_008206
+Inference Time : 0.0727 s
+Overall mIoU   : 45.02%
+Per-Class IoU  :
+    road           : 96.42%
+    sidewalk       : 23.65%
+    building       : 72.00%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 34.41%
+    traffic light  : 41.89%
+    traffic sign   : 27.81%
+    vegetation     : 85.94%
+    terrain        : 39.77%
+    sky            : 93.91%
+    person         : 43.05%
+    rider          : 0.00%
+    car            : 79.80%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 36.65%
+--------------------------------------------------
+Image [17/267]: frankfurt_000000_008451
+Inference Time : 0.0650 s
+Overall mIoU   : 49.51%
+Per-Class IoU  :
+    road           : 97.74%
+    sidewalk       : 66.20%
+    building       : 79.16%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 39.81%
+    traffic light  : 20.70%
+    traffic sign   : 28.19%
+    vegetation     : 88.48%
+    terrain        : 0.00%
+    sky            : 93.00%
+    person         : 38.09%
+    rider          : 59.88%
+    car            : 52.37%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 79.01%
+--------------------------------------------------
+Image [18/267]: frankfurt_000000_009291
+Inference Time : 0.0743 s
+Overall mIoU   : 48.18%
+Per-Class IoU  :
+    road           : 98.06%
+    sidewalk       : 68.82%
+    building       : 83.85%
+    wall           : 26.08%
+    fence          : 0.00%
+    pole           : 60.01%
+    traffic light  : N/A
+    traffic sign   : 51.01%
+    vegetation     : 86.77%
+    terrain        : 0.00%
+    sky            : 91.65%
+    person         : 39.50%
+    rider          : N/A
+    car            : 68.75%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [19/267]: frankfurt_000000_009561
+Inference Time : 0.0661 s
+Overall mIoU   : 53.47%
+Per-Class IoU  :
+    road           : 94.80%
+    sidewalk       : 42.76%
+    building       : 74.48%
+    wall           : 0.00%
+    fence          : 59.47%
+    pole           : 55.95%
+    traffic light  : 75.75%
+    traffic sign   : 63.25%
+    vegetation     : 90.98%
+    terrain        : N/A
+    sky            : 91.24%
+    person         : 75.03%
+    rider          : 0.00%
+    car            : 78.38%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [20/267]: frankfurt_000000_009688
+Inference Time : 0.0716 s
+Overall mIoU   : 58.81%
+Per-Class IoU  :
+    road           : 98.64%
+    sidewalk       : 94.85%
+    building       : 77.15%
+    wall           : 0.00%
+    fence          : 85.81%
+    pole           : 32.83%
+    traffic light  : N/A
+    traffic sign   : N/A
+    vegetation     : 81.93%
+    terrain        : N/A
+    sky            : 92.91%
+    person         : 32.35%
+    rider          : 6.27%
+    car            : N/A
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 44.15%
+--------------------------------------------------
+Image [21/267]: frankfurt_000000_009969
+Inference Time : 0.0683 s
+Overall mIoU   : 64.30%
+Per-Class IoU  :
+    road           : 99.00%
+    sidewalk       : 96.05%
+    building       : 86.58%
+    wall           : 0.00%
+    fence          : 73.48%
+    pole           : 38.43%
+    traffic light  : N/A
+    traffic sign   : 79.25%
+    vegetation     : 90.62%
+    terrain        : N/A
+    sky            : 94.17%
+    person         : 57.58%
+    rider          : 48.11%
+    car            : 96.83%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 40.16%
+--------------------------------------------------
+Image [22/267]: frankfurt_000000_010351
+Inference Time : 0.0642 s
+Overall mIoU   : 41.97%
+Per-Class IoU  :
+    road           : 96.61%
+    sidewalk       : 69.52%
+    building       : 67.20%
+    wall           : 57.26%
+    fence          : 0.00%
+    pole           : 68.45%
+    traffic light  : 2.23%
+    traffic sign   : 69.49%
+    vegetation     : 89.54%
+    terrain        : 0.00%
+    sky            : 33.32%
+    person         : 0.00%
+    rider          : N/A
+    car            : 10.17%
+    truck          : 65.79%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [23/267]: frankfurt_000000_010763
+Inference Time : 0.0600 s
+Overall mIoU   : 45.20%
+Per-Class IoU  :
+    road           : 98.45%
+    sidewalk       : 85.57%
+    building       : 87.03%
+    wall           : 64.25%
+    fence          : 6.66%
+    pole           : 58.41%
+    traffic light  : 0.00%
+    traffic sign   : 25.91%
+    vegetation     : 84.16%
+    terrain        : 2.26%
+    sky            : 95.27%
+    person         : 0.00%
+    rider          : 1.16%
+    car            : 72.93%
+    truck          : 82.41%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 3.93%
+--------------------------------------------------
+Image [24/267]: frankfurt_000000_011007
+Inference Time : 0.0719 s
+Overall mIoU   : 59.44%
+Per-Class IoU  :
+    road           : 95.99%
+    sidewalk       : 76.68%
+    building       : 89.33%
+    wall           : 69.13%
+    fence          : 48.91%
+    pole           : 40.21%
+    traffic light  : 18.50%
+    traffic sign   : 54.37%
+    vegetation     : 77.43%
+    terrain        : 0.00%
+    sky            : 92.82%
+    person         : 0.00%
+    rider          : N/A
+    car            : 80.11%
+    truck          : 88.63%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [25/267]: frankfurt_000000_011074
+Inference Time : 0.0705 s
+Overall mIoU   : 43.19%
+Per-Class IoU  :
+    road           : 97.21%
+    sidewalk       : 91.03%
+    building       : 76.61%
+    wall           : 69.34%
+    fence          : 69.71%
+    pole           : 22.65%
+    traffic light  : 0.00%
+    traffic sign   : 24.01%
+    vegetation     : 80.84%
+    terrain        : 1.18%
+    sky            : 77.72%
+    person         : 80.81%
+    rider          : N/A
+    car            : 0.00%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [26/267]: frankfurt_000000_011461
+Inference Time : 0.0719 s
+Overall mIoU   : 37.67%
+Per-Class IoU  :
+    road           : 97.83%
+    sidewalk       : 75.95%
+    building       : 57.65%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 53.10%
+    traffic light  : 0.00%
+    traffic sign   : 94.00%
+    vegetation     : 90.80%
+    terrain        : 14.73%
+    sky            : N/A
+    person         : 54.11%
+    rider          : 0.00%
+    car            : 64.62%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [27/267]: frankfurt_000000_011810
+Inference Time : 0.0714 s
+Overall mIoU   : 44.45%
+Per-Class IoU  :
+    road           : 97.98%
+    sidewalk       : 77.13%
+    building       : 70.44%
+    wall           : 30.43%
+    fence          : 27.37%
+    pole           : 38.37%
+    traffic light  : 45.91%
+    traffic sign   : 40.59%
+    vegetation     : 88.95%
+    terrain        : N/A
+    sky            : 91.42%
+    person         : 55.63%
+    rider          : 0.00%
+    car            : 90.77%
+    truck          : 0.00%
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : 0.68%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [28/267]: frankfurt_000000_012009
+Inference Time : 0.0741 s
+Overall mIoU   : 49.21%
+Per-Class IoU  :
+    road           : 97.91%
+    sidewalk       : 59.10%
+    building       : 83.83%
+    wall           : 0.00%
+    fence          : 23.53%
+    pole           : 20.38%
+    traffic light  : N/A
+    traffic sign   : 41.64%
+    vegetation     : 79.80%
+    terrain        : N/A
+    sky            : 71.38%
+    person         : 37.09%
+    rider          : N/A
+    car            : 75.83%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [29/267]: frankfurt_000000_012121
+Inference Time : 0.0628 s
+Overall mIoU   : 43.42%
+Per-Class IoU  :
+    road           : 98.90%
+    sidewalk       : 61.66%
+    building       : 85.57%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 67.31%
+    traffic light  : 29.95%
+    traffic sign   : 2.61%
+    vegetation     : 88.86%
+    terrain        : 0.00%
+    sky            : 74.55%
+    person         : 38.37%
+    rider          : N/A
+    car            : 61.99%
+    truck          : 84.98%
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [30/267]: frankfurt_000000_012868
+Inference Time : 0.0603 s
+Overall mIoU   : 59.22%
+Per-Class IoU  :
+    road           : 97.28%
+    sidewalk       : 81.88%
+    building       : 91.25%
+    wall           : N/A
+    fence          : 6.22%
+    pole           : 39.65%
+    traffic light  : 9.94%
+    traffic sign   : 0.21%
+    vegetation     : 87.82%
+    terrain        : N/A
+    sky            : 86.58%
+    person         : 47.58%
+    rider          : N/A
+    car            : 94.54%
+    truck          : N/A
+    bus            : 60.82%
+    train          : N/A
+    motorcycle     : 68.32%
+    bicycle        : 57.05%
+--------------------------------------------------
+Image [31/267]: frankfurt_000000_013067
+Inference Time : 0.0598 s
+Overall mIoU   : 53.45%
+Per-Class IoU  :
+    road           : 97.96%
+    sidewalk       : 88.88%
+    building       : 82.91%
+    wall           : 3.88%
+    fence          : 58.69%
+    pole           : 49.80%
+    traffic light  : 37.81%
+    traffic sign   : 46.19%
+    vegetation     : 90.59%
+    terrain        : N/A
+    sky            : N/A
+    person         : 51.67%
+    rider          : 0.00%
+    car            : 93.74%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 46.17%
+--------------------------------------------------
+Image [32/267]: frankfurt_000000_013240
+Inference Time : 0.0708 s
+Overall mIoU   : 61.99%
+Per-Class IoU  :
+    road           : 93.50%
+    sidewalk       : 58.07%
+    building       : 89.06%
+    wall           : 7.82%
+    fence          : 18.48%
+    pole           : 17.64%
+    traffic light  : 75.65%
+    traffic sign   : 68.49%
+    vegetation     : 77.23%
+    terrain        : N/A
+    sky            : N/A
+    person         : 73.25%
+    rider          : N/A
+    car            : 94.44%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 70.26%
+--------------------------------------------------
+Image [33/267]: frankfurt_000000_013382
+Inference Time : 0.0632 s
+Overall mIoU   : 61.42%
+Per-Class IoU  :
+    road           : 98.71%
+    sidewalk       : 75.36%
+    building       : 95.35%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 47.35%
+    traffic light  : 0.00%
+    traffic sign   : 64.23%
+    vegetation     : 86.39%
+    terrain        : N/A
+    sky            : 85.17%
+    person         : 42.61%
+    rider          : N/A
+    car            : 95.98%
+    truck          : N/A
+    bus            : 86.40%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 20.95%
+--------------------------------------------------
+Image [34/267]: frankfurt_000000_013942
+Inference Time : 0.0601 s
+Overall mIoU   : 51.47%
+Per-Class IoU  :
+    road           : 89.60%
+    sidewalk       : 74.36%
+    building       : 83.23%
+    wall           : 27.95%
+    fence          : 81.99%
+    pole           : 32.60%
+    traffic light  : 24.88%
+    traffic sign   : 63.56%
+    vegetation     : 78.03%
+    terrain        : 0.00%
+    sky            : 88.96%
+    person         : 0.00%
+    rider          : 35.87%
+    car            : 88.22%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 54.23%
+--------------------------------------------------
+Image [35/267]: frankfurt_000000_014480
+Inference Time : 0.0632 s
+Overall mIoU   : 54.20%
+Per-Class IoU  :
+    road           : 94.34%
+    sidewalk       : 69.24%
+    building       : 83.74%
+    wall           : 11.84%
+    fence          : N/A
+    pole           : 40.89%
+    traffic light  : 24.10%
+    traffic sign   : 26.22%
+    vegetation     : 86.95%
+    terrain        : 0.00%
+    sky            : 96.85%
+    person         : 83.02%
+    rider          : N/A
+    car            : 87.40%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [36/267]: frankfurt_000000_015389
+Inference Time : 0.0672 s
+Overall mIoU   : 40.45%
+Per-Class IoU  :
+    road           : 97.09%
+    sidewalk       : 80.13%
+    building       : 84.51%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 44.15%
+    traffic light  : 0.00%
+    traffic sign   : 22.29%
+    vegetation     : 88.46%
+    terrain        : 0.00%
+    sky            : 87.69%
+    person         : 39.50%
+    rider          : 0.00%
+    car            : 86.12%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 16.88%
+    bicycle        : 0.41%
+--------------------------------------------------
+Image [37/267]: frankfurt_000000_015676
+Inference Time : 0.0632 s
+Overall mIoU   : 52.06%
+Per-Class IoU  :
+    road           : 93.84%
+    sidewalk       : 43.34%
+    building       : 90.06%
+    wall           : 0.00%
+    fence          : 81.81%
+    pole           : 50.86%
+    traffic light  : 24.85%
+    traffic sign   : 73.37%
+    vegetation     : 89.26%
+    terrain        : 0.00%
+    sky            : 82.68%
+    person         : 1.97%
+    rider          : 0.00%
+    car            : 90.55%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 58.39%
+--------------------------------------------------
+Image [38/267]: frankfurt_000000_016005
+Inference Time : 0.0627 s
+Overall mIoU   : 45.08%
+Per-Class IoU  :
+    road           : 93.35%
+    sidewalk       : 76.76%
+    building       : 64.49%
+    wall           : 0.00%
+    fence          : 31.83%
+    pole           : 64.48%
+    traffic light  : 3.00%
+    traffic sign   : 18.36%
+    vegetation     : 80.74%
+    terrain        : 1.38%
+    sky            : 95.45%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 89.38%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 57.07%
+--------------------------------------------------
+Image [39/267]: frankfurt_000000_016286
+Inference Time : 0.0639 s
+Overall mIoU   : 49.36%
+Per-Class IoU  :
+    road           : 95.55%
+    sidewalk       : 44.69%
+    building       : 71.20%
+    wall           : 43.56%
+    fence          : 0.00%
+    pole           : 60.54%
+    traffic light  : 7.67%
+    traffic sign   : 83.66%
+    vegetation     : 89.36%
+    terrain        : 0.00%
+    sky            : 95.22%
+    person         : 0.00%
+    rider          : 9.98%
+    car            : 84.75%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 28.86%
+    bicycle        : 74.79%
+--------------------------------------------------
+Image [40/267]: frankfurt_000000_017228
+Inference Time : 0.0729 s
+Overall mIoU   : 47.42%
+Per-Class IoU  :
+    road           : 98.60%
+    sidewalk       : 20.92%
+    building       : 70.31%
+    wall           : 30.50%
+    fence          : 0.00%
+    pole           : 56.49%
+    traffic light  : 38.33%
+    traffic sign   : 77.31%
+    vegetation     : 92.36%
+    terrain        : 0.00%
+    sky            : 94.15%
+    person         : 17.44%
+    rider          : 58.95%
+    car            : 73.58%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 18.56%
+    bicycle        : 11.28%
+--------------------------------------------------
+Image [41/267]: frankfurt_000000_017476
+Inference Time : 0.0646 s
+Overall mIoU   : 43.89%
+Per-Class IoU  :
+    road           : 97.15%
+    sidewalk       : 12.89%
+    building       : 69.38%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 45.21%
+    traffic light  : 20.04%
+    traffic sign   : 17.59%
+    vegetation     : 89.55%
+    terrain        : 0.00%
+    sky            : 92.96%
+    person         : 32.92%
+    rider          : 56.93%
+    car            : 73.50%
+    truck          : 0.00%
+    bus            : 12.85%
+    train          : N/A
+    motorcycle     : 63.58%
+    bicycle        : 61.51%
+--------------------------------------------------
+Image [42/267]: frankfurt_000000_018797
+Inference Time : 0.0768 s
+Overall mIoU   : 56.10%
+Per-Class IoU  :
+    road           : 98.82%
+    sidewalk       : 84.03%
+    building       : 85.91%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 53.55%
+    traffic light  : 0.00%
+    traffic sign   : 60.47%
+    vegetation     : 90.59%
+    terrain        : 4.89%
+    sky            : 92.69%
+    person         : 0.00%
+    rider          : 41.30%
+    car            : 91.89%
+    truck          : 81.18%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 56.19%
+--------------------------------------------------
+Image [43/267]: frankfurt_000000_019607
+Inference Time : 0.0666 s
+Overall mIoU   : 57.70%
+Per-Class IoU  :
+    road           : 96.23%
+    sidewalk       : 58.33%
+    building       : 88.62%
+    wall           : N/A
+    fence          : N/A
+    pole           : 28.32%
+    traffic light  : 62.91%
+    traffic sign   : 56.56%
+    vegetation     : 78.29%
+    terrain        : 0.00%
+    sky            : 93.64%
+    person         : 68.72%
+    rider          : 0.00%
+    car            : 81.53%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 65.07%
+    bicycle        : 29.59%
+--------------------------------------------------
+Image [44/267]: frankfurt_000000_020215
+Inference Time : 0.0710 s
+Overall mIoU   : 47.44%
+Per-Class IoU  :
+    road           : 98.02%
+    sidewalk       : 71.02%
+    building       : 87.54%
+    wall           : 55.58%
+    fence          : 0.00%
+    pole           : 52.12%
+    traffic light  : 0.00%
+    traffic sign   : 6.50%
+    vegetation     : 90.63%
+    terrain        : 0.00%
+    sky            : 94.81%
+    person         : 51.62%
+    rider          : 73.43%
+    car            : 90.31%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 34.90%
+--------------------------------------------------
+Image [45/267]: frankfurt_000000_020321
+Inference Time : 0.0620 s
+Overall mIoU   : 49.35%
+Per-Class IoU  :
+    road           : 98.11%
+    sidewalk       : 82.97%
+    building       : 87.40%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 49.07%
+    traffic light  : 20.62%
+    traffic sign   : 36.30%
+    vegetation     : 89.42%
+    terrain        : 0.00%
+    sky            : 91.81%
+    person         : 71.24%
+    rider          : 0.00%
+    car            : 78.88%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 34.41%
+--------------------------------------------------
+Image [46/267]: frankfurt_000000_020880
+Inference Time : 0.0673 s
+Overall mIoU   : 57.64%
+Per-Class IoU  :
+    road           : 99.08%
+    sidewalk       : 85.12%
+    building       : 88.86%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 20.84%
+    traffic light  : 44.52%
+    traffic sign   : 68.76%
+    vegetation     : 91.66%
+    terrain        : N/A
+    sky            : 93.64%
+    person         : 72.06%
+    rider          : 39.31%
+    car            : 88.79%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 14.36%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [47/267]: frankfurt_000000_021667
+Inference Time : 0.0586 s
+Overall mIoU   : 46.80%
+Per-Class IoU  :
+    road           : 99.21%
+    sidewalk       : 89.06%
+    building       : 95.23%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 48.99%
+    traffic light  : 12.96%
+    traffic sign   : 11.06%
+    vegetation     : 81.01%
+    terrain        : N/A
+    sky            : 96.25%
+    person         : 21.54%
+    rider          : 0.00%
+    car            : 76.02%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 70.71%
+--------------------------------------------------
+Image [48/267]: frankfurt_000000_021879
+Inference Time : 0.0734 s
+Overall mIoU   : 36.73%
+Per-Class IoU  :
+    road           : 98.51%
+    sidewalk       : 30.09%
+    building       : 87.44%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 31.90%
+    traffic light  : 6.74%
+    traffic sign   : 48.52%
+    vegetation     : 92.12%
+    terrain        : 0.00%
+    sky            : 93.79%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 87.86%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 10.78%
+--------------------------------------------------
+Image [49/267]: frankfurt_000000_022254
+Inference Time : 0.0660 s
+Overall mIoU   : 54.82%
+Per-Class IoU  :
+    road           : 97.67%
+    sidewalk       : 74.53%
+    building       : 91.42%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 46.02%
+    traffic light  : 48.02%
+    traffic sign   : 53.76%
+    vegetation     : 91.86%
+    terrain        : N/A
+    sky            : 80.01%
+    person         : 47.42%
+    rider          : 45.61%
+    car            : 72.49%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 60.46%
+    bicycle        : 67.78%
+--------------------------------------------------
+Image [50/267]: frankfurt_000000_022797
+Inference Time : 0.0720 s
+Overall mIoU   : 59.59%
+Per-Class IoU  :
+    road           : 93.68%
+    sidewalk       : 67.45%
+    building       : 92.48%
+    wall           : 67.92%
+    fence          : 84.36%
+    pole           : 63.74%
+    traffic light  : 37.03%
+    traffic sign   : 74.55%
+    vegetation     : 91.83%
+    terrain        : 0.00%
+    sky            : 91.26%
+    person         : 57.28%
+    rider          : 0.00%
+    car            : 88.71%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 43.23%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [51/267]: frankfurt_000001_000538
+Inference Time : 0.0743 s
+Overall mIoU   : 54.28%
+Per-Class IoU  :
+    road           : 97.04%
+    sidewalk       : 66.18%
+    building       : 88.17%
+    wall           : 0.00%
+    fence          : 5.69%
+    pole           : 47.66%
+    traffic light  : 49.28%
+    traffic sign   : 65.47%
+    vegetation     : 81.58%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 42.71%
+    rider          : 67.81%
+    car            : 86.91%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.45%
+--------------------------------------------------
+Image [52/267]: frankfurt_000001_001464
+Inference Time : 0.0669 s
+Overall mIoU   : 42.83%
+Per-Class IoU  :
+    road           : 94.07%
+    sidewalk       : 48.86%
+    building       : 92.03%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 52.78%
+    traffic light  : 46.85%
+    traffic sign   : 65.98%
+    vegetation     : 83.47%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 39.75%
+    rider          : 53.54%
+    car            : 0.35%
+    truck          : 0.00%
+    bus            : 73.12%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 77.33%
+--------------------------------------------------
+Image [53/267]: frankfurt_000001_002512
+Inference Time : 0.0661 s
+Overall mIoU   : 39.80%
+Per-Class IoU  :
+    road           : 97.42%
+    sidewalk       : 20.30%
+    building       : 80.06%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 44.20%
+    traffic light  : 0.00%
+    traffic sign   : 27.54%
+    vegetation     : 79.78%
+    terrain        : 65.09%
+    sky            : 0.00%
+    person         : 15.72%
+    rider          : 71.15%
+    car            : 62.22%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 33.50%
+--------------------------------------------------
+Image [54/267]: frankfurt_000001_002646
+Inference Time : 0.0695 s
+Overall mIoU   : 52.44%
+Per-Class IoU  :
+    road           : 93.78%
+    sidewalk       : 34.87%
+    building       : 88.77%
+    wall           : 17.62%
+    fence          : N/A
+    pole           : 43.44%
+    traffic light  : 44.25%
+    traffic sign   : 69.92%
+    vegetation     : 80.80%
+    terrain        : 81.46%
+    sky            : 96.22%
+    person         : 47.05%
+    rider          : 23.43%
+    car            : 87.96%
+    truck          : N/A
+    bus            : 1.71%
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 27.84%
+--------------------------------------------------
+Image [55/267]: frankfurt_000001_002759
+Inference Time : 0.0659 s
+Overall mIoU   : 45.24%
+Per-Class IoU  :
+    road           : 77.82%
+    sidewalk       : 44.20%
+    building       : 85.05%
+    wall           : N/A
+    fence          : 11.80%
+    pole           : 46.85%
+    traffic light  : 19.31%
+    traffic sign   : 34.47%
+    vegetation     : 84.86%
+    terrain        : 0.00%
+    sky            : 97.11%
+    person         : 66.30%
+    rider          : 0.00%
+    car            : 88.79%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 22.01%
+--------------------------------------------------
+Image [56/267]: frankfurt_000001_003056
+Inference Time : 0.0657 s
+Overall mIoU   : 54.45%
+Per-Class IoU  :
+    road           : 97.96%
+    sidewalk       : 57.33%
+    building       : 80.76%
+    wall           : 11.30%
+    fence          : 51.90%
+    pole           : 32.59%
+    traffic light  : 22.52%
+    traffic sign   : 69.10%
+    vegetation     : 77.56%
+    terrain        : 59.98%
+    sky            : 95.14%
+    person         : N/A
+    rider          : N/A
+    car            : 90.98%
+    truck          : N/A
+    bus            : 3.97%
+    train          : 65.66%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [57/267]: frankfurt_000001_003588
+Inference Time : 0.0692 s
+Overall mIoU   : 44.86%
+Per-Class IoU  :
+    road           : 98.56%
+    sidewalk       : 80.16%
+    building       : 89.28%
+    wall           : 0.00%
+    fence          : 5.56%
+    pole           : 22.80%
+    traffic light  : 12.12%
+    traffic sign   : 54.25%
+    vegetation     : 77.00%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 32.73%
+    rider          : 45.17%
+    car            : 76.87%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 78.37%
+--------------------------------------------------
+Image [58/267]: frankfurt_000001_004327
+Inference Time : 0.0660 s
+Overall mIoU   : 54.48%
+Per-Class IoU  :
+    road           : 98.15%
+    sidewalk       : 85.27%
+    building       : 38.21%
+    wall           : 71.63%
+    fence          : 35.37%
+    pole           : 44.83%
+    traffic light  : 63.18%
+    traffic sign   : 0.00%
+    vegetation     : 92.92%
+    terrain        : N/A
+    sky            : 92.72%
+    person         : 85.92%
+    rider          : 0.00%
+    car            : N/A
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [59/267]: frankfurt_000001_004736
+Inference Time : 0.0597 s
+Overall mIoU   : 53.17%
+Per-Class IoU  :
+    road           : 98.99%
+    sidewalk       : 65.71%
+    building       : 78.51%
+    wall           : 81.51%
+    fence          : 61.58%
+    pole           : 33.51%
+    traffic light  : 26.47%
+    traffic sign   : 28.79%
+    vegetation     : 85.01%
+    terrain        : 76.95%
+    sky            : 89.58%
+    person         : 37.04%
+    rider          : 0.00%
+    car            : 82.19%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 4.88%
+--------------------------------------------------
+Image [60/267]: frankfurt_000001_004859
+Inference Time : 0.0666 s
+Overall mIoU   : 47.90%
+Per-Class IoU  :
+    road           : 98.55%
+    sidewalk       : 75.34%
+    building       : 70.91%
+    wall           : 31.96%
+    fence          : 0.00%
+    pole           : 50.61%
+    traffic light  : 0.00%
+    traffic sign   : 58.19%
+    vegetation     : 90.42%
+    terrain        : 62.15%
+    sky            : 94.21%
+    person         : 35.45%
+    rider          : 48.44%
+    car            : 50.13%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [61/267]: frankfurt_000001_005184
+Inference Time : 0.0626 s
+Overall mIoU   : 60.35%
+Per-Class IoU  :
+    road           : 94.45%
+    sidewalk       : 58.41%
+    building       : 82.24%
+    wall           : 0.00%
+    fence          : 88.10%
+    pole           : 42.87%
+    traffic light  : 41.43%
+    traffic sign   : 73.36%
+    vegetation     : 92.12%
+    terrain        : N/A
+    sky            : 95.16%
+    person         : 40.40%
+    rider          : 0.27%
+    car            : 74.39%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.68%
+--------------------------------------------------
+Image [62/267]: frankfurt_000001_005410
+Inference Time : 0.0637 s
+Overall mIoU   : 62.89%
+Per-Class IoU  :
+    road           : 98.58%
+    sidewalk       : 89.64%
+    building       : 73.36%
+    wall           : 0.00%
+    fence          : 73.59%
+    pole           : 51.50%
+    traffic light  : 78.35%
+    traffic sign   : 84.58%
+    vegetation     : 89.60%
+    terrain        : 0.00%
+    sky            : 91.91%
+    person         : 64.56%
+    rider          : 0.00%
+    car            : 86.97%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 60.71%
+--------------------------------------------------
+Image [63/267]: frankfurt_000001_005703
+Inference Time : 0.0686 s
+Overall mIoU   : 41.25%
+Per-Class IoU  :
+    road           : 94.61%
+    sidewalk       : 62.31%
+    building       : 83.66%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 37.23%
+    traffic light  : 55.15%
+    traffic sign   : 6.42%
+    vegetation     : 87.40%
+    terrain        : 8.49%
+    sky            : 73.28%
+    person         : 0.00%
+    rider          : 22.86%
+    car            : 89.67%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 39.00%
+--------------------------------------------------
+Image [64/267]: frankfurt_000001_005898
+Inference Time : 0.0667 s
+Overall mIoU   : 43.67%
+Per-Class IoU  :
+    road           : 97.78%
+    sidewalk       : 90.30%
+    building       : 66.43%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 58.03%
+    traffic light  : 0.00%
+    traffic sign   : 51.24%
+    vegetation     : 92.59%
+    terrain        : 23.38%
+    sky            : 94.86%
+    person         : 0.00%
+    rider          : N/A
+    car            : 40.16%
+    truck          : 0.00%
+    bus            : 84.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [65/267]: frankfurt_000001_007285
+Inference Time : 0.0630 s
+Overall mIoU   : 58.64%
+Per-Class IoU  :
+    road           : 97.65%
+    sidewalk       : 67.13%
+    building       : 87.93%
+    wall           : 31.56%
+    fence          : 89.01%
+    pole           : 30.76%
+    traffic light  : 23.27%
+    traffic sign   : 59.37%
+    vegetation     : 84.56%
+    terrain        : N/A
+    sky            : 93.82%
+    person         : 60.53%
+    rider          : 0.00%
+    car            : 95.37%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [66/267]: frankfurt_000001_007407
+Inference Time : 0.0590 s
+Overall mIoU   : 58.62%
+Per-Class IoU  :
+    road           : 84.90%
+    sidewalk       : 33.48%
+    building       : 85.04%
+    wall           : 68.78%
+    fence          : 0.00%
+    pole           : 57.41%
+    traffic light  : 60.69%
+    traffic sign   : 58.64%
+    vegetation     : 84.39%
+    terrain        : 29.50%
+    sky            : N/A
+    person         : 56.02%
+    rider          : 70.00%
+    car            : 64.18%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 67.60%
+--------------------------------------------------
+Image [67/267]: frankfurt_000001_007622
+Inference Time : 0.0579 s
+Overall mIoU   : 48.83%
+Per-Class IoU  :
+    road           : 89.16%
+    sidewalk       : 28.65%
+    building       : 71.82%
+    wall           : 0.00%
+    fence          : 41.10%
+    pole           : 54.76%
+    traffic light  : 0.00%
+    traffic sign   : 70.64%
+    vegetation     : 81.48%
+    terrain        : 50.05%
+    sky            : 0.00%
+    person         : 65.45%
+    rider          : N/A
+    car            : 90.37%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 40.18%
+--------------------------------------------------
+Image [68/267]: frankfurt_000001_007857
+Inference Time : 0.0731 s
+Overall mIoU   : 48.14%
+Per-Class IoU  :
+    road           : 97.68%
+    sidewalk       : 61.55%
+    building       : 88.04%
+    wall           : 0.00%
+    fence          : 89.97%
+    pole           : 23.75%
+    traffic light  : 11.54%
+    traffic sign   : 38.65%
+    vegetation     : 82.42%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 64.38%
+    rider          : 0.00%
+    car            : 88.73%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 75.40%
+--------------------------------------------------
+Image [69/267]: frankfurt_000001_007973
+Inference Time : 0.0655 s
+Overall mIoU   : 49.60%
+Per-Class IoU  :
+    road           : 95.63%
+    sidewalk       : 58.29%
+    building       : 88.54%
+    wall           : 1.09%
+    fence          : 22.82%
+    pole           : 50.37%
+    traffic light  : 51.56%
+    traffic sign   : 50.71%
+    vegetation     : 86.83%
+    terrain        : 0.00%
+    sky            : 75.36%
+    person         : 52.90%
+    rider          : 25.61%
+    car            : 44.37%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 39.88%
+--------------------------------------------------
+Image [70/267]: frankfurt_000001_008200
+Inference Time : 0.0698 s
+Overall mIoU   : 46.58%
+Per-Class IoU  :
+    road           : 98.94%
+    sidewalk       : 73.04%
+    building       : 91.41%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 31.11%
+    traffic light  : 10.54%
+    traffic sign   : 25.34%
+    vegetation     : 73.34%
+    terrain        : 0.00%
+    sky            : 93.97%
+    person         : 49.40%
+    rider          : N/A
+    car            : 92.20%
+    truck          : 0.00%
+    bus            : 12.79%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [71/267]: frankfurt_000001_008688
+Inference Time : 0.0649 s
+Overall mIoU   : 63.17%
+Per-Class IoU  :
+    road           : 98.03%
+    sidewalk       : 74.09%
+    building       : 87.29%
+    wall           : 0.00%
+    fence          : 54.18%
+    pole           : 46.62%
+    traffic light  : 63.11%
+    traffic sign   : 42.20%
+    vegetation     : 95.07%
+    terrain        : N/A
+    sky            : 96.56%
+    person         : 76.90%
+    rider          : N/A
+    car            : 87.21%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [72/267]: frankfurt_000001_009058
+Inference Time : 0.0655 s
+Overall mIoU   : 39.07%
+Per-Class IoU  :
+    road           : 97.99%
+    sidewalk       : 36.68%
+    building       : 94.55%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 17.48%
+    traffic light  : 0.00%
+    traffic sign   : 23.46%
+    vegetation     : 59.36%
+    terrain        : N/A
+    sky            : 89.64%
+    person         : 51.50%
+    rider          : 0.00%
+    car            : 80.08%
+    truck          : N/A
+    bus            : 0.00%
+    train          : 0.00%
+    motorcycle     : 0.00%
+    bicycle        : 74.39%
+--------------------------------------------------
+Image [73/267]: frankfurt_000001_009504
+Inference Time : 0.0635 s
+Overall mIoU   : 40.26%
+Per-Class IoU  :
+    road           : 98.05%
+    sidewalk       : 43.92%
+    building       : 93.70%
+    wall           : N/A
+    fence          : N/A
+    pole           : 27.83%
+    traffic light  : 0.00%
+    traffic sign   : 16.08%
+    vegetation     : 58.24%
+    terrain        : N/A
+    sky            : 84.60%
+    person         : 40.32%
+    rider          : 23.71%
+    car            : 17.60%
+    truck          : N/A
+    bus            : 5.18%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 54.39%
+--------------------------------------------------
+Image [74/267]: frankfurt_000001_009854
+Inference Time : 0.0616 s
+Overall mIoU   : 51.81%
+Per-Class IoU  :
+    road           : 98.74%
+    sidewalk       : 73.56%
+    building       : 89.12%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 30.81%
+    traffic light  : 18.90%
+    traffic sign   : 19.81%
+    vegetation     : 85.35%
+    terrain        : N/A
+    sky            : 79.56%
+    person         : 20.86%
+    rider          : 32.13%
+    car            : 87.90%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 36.79%
+--------------------------------------------------
+Image [75/267]: frankfurt_000001_010156
+Inference Time : 0.0629 s
+Overall mIoU   : 49.40%
+Per-Class IoU  :
+    road           : 98.26%
+    sidewalk       : 88.26%
+    building       : 88.09%
+    wall           : 75.37%
+    fence          : 0.00%
+    pole           : 37.92%
+    traffic light  : 0.00%
+    traffic sign   : 56.85%
+    vegetation     : 82.02%
+    terrain        : N/A
+    sky            : 51.56%
+    person         : 68.20%
+    rider          : 0.00%
+    car            : 55.84%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 38.57%
+--------------------------------------------------
+Image [76/267]: frankfurt_000001_010444
+Inference Time : 0.0582 s
+Overall mIoU   : 44.10%
+Per-Class IoU  :
+    road           : 98.01%
+    sidewalk       : 82.78%
+    building       : 72.14%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 50.70%
+    traffic light  : 0.00%
+    traffic sign   : 65.13%
+    vegetation     : 91.35%
+    terrain        : N/A
+    sky            : N/A
+    person         : 49.17%
+    rider          : 0.00%
+    car            : 55.94%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 18.01%
+    bicycle        : 34.17%
+--------------------------------------------------
+Image [77/267]: frankfurt_000001_010600
+Inference Time : 0.0666 s
+Overall mIoU   : 47.47%
+Per-Class IoU  :
+    road           : 99.17%
+    sidewalk       : 89.73%
+    building       : 87.22%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 48.49%
+    traffic light  : N/A
+    traffic sign   : 58.98%
+    vegetation     : 89.70%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 38.01%
+    rider          : 0.00%
+    car            : 96.26%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 9.54%
+--------------------------------------------------
+Image [78/267]: frankfurt_000001_010830
+Inference Time : 0.0709 s
+Overall mIoU   : 53.62%
+Per-Class IoU  :
+    road           : 96.66%
+    sidewalk       : 37.85%
+    building       : 83.93%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 37.51%
+    traffic light  : N/A
+    traffic sign   : 74.44%
+    vegetation     : 84.55%
+    terrain        : N/A
+    sky            : 76.23%
+    person         : 58.19%
+    rider          : 0.00%
+    car            : 87.95%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 6.18%
+--------------------------------------------------
+Image [79/267]: frankfurt_000001_011162
+Inference Time : 0.0697 s
+Overall mIoU   : 48.63%
+Per-Class IoU  :
+    road           : 96.43%
+    sidewalk       : 86.59%
+    building       : 83.10%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 60.84%
+    traffic light  : 0.00%
+    traffic sign   : 74.42%
+    vegetation     : 74.92%
+    terrain        : N/A
+    sky            : 90.79%
+    person         : 69.85%
+    rider          : 0.00%
+    car            : 45.28%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 47.28%
+--------------------------------------------------
+Image [80/267]: frankfurt_000001_011715
+Inference Time : 0.0623 s
+Overall mIoU   : 63.04%
+Per-Class IoU  :
+    road           : 93.92%
+    sidewalk       : 88.03%
+    building       : 90.30%
+    wall           : 55.99%
+    fence          : N/A
+    pole           : 34.77%
+    traffic light  : 0.00%
+    traffic sign   : 77.59%
+    vegetation     : 93.36%
+    terrain        : N/A
+    sky            : 87.25%
+    person         : 74.43%
+    rider          : 52.67%
+    car            : 9.73%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.53%
+--------------------------------------------------
+Image [81/267]: frankfurt_000001_011835
+Inference Time : 0.0623 s
+Overall mIoU   : 58.12%
+Per-Class IoU  :
+    road           : 86.12%
+    sidewalk       : 77.31%
+    building       : 93.04%
+    wall           : 10.42%
+    fence          : N/A
+    pole           : 25.02%
+    traffic light  : 0.00%
+    traffic sign   : 61.51%
+    vegetation     : 91.61%
+    terrain        : N/A
+    sky            : 90.08%
+    person         : 84.64%
+    rider          : N/A
+    car            : 0.00%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 77.68%
+--------------------------------------------------
+Image [82/267]: frankfurt_000001_012038
+Inference Time : 0.0601 s
+Overall mIoU   : 62.44%
+Per-Class IoU  :
+    road           : 97.91%
+    sidewalk       : 87.20%
+    building       : 88.78%
+    wall           : 28.65%
+    fence          : N/A
+    pole           : 63.02%
+    traffic light  : N/A
+    traffic sign   : 70.49%
+    vegetation     : 92.24%
+    terrain        : N/A
+    sky            : 91.38%
+    person         : 60.80%
+    rider          : 66.77%
+    car            : 0.00%
+    truck          : 65.28%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 61.65%
+--------------------------------------------------
+Image [83/267]: frankfurt_000001_012519
+Inference Time : 0.0619 s
+Overall mIoU   : 50.53%
+Per-Class IoU  :
+    road           : 96.08%
+    sidewalk       : 73.47%
+    building       : 88.98%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 41.00%
+    traffic light  : N/A
+    traffic sign   : 56.10%
+    vegetation     : 81.32%
+    terrain        : 0.00%
+    sky            : 55.51%
+    person         : 66.71%
+    rider          : 47.37%
+    car            : 92.63%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 58.73%
+--------------------------------------------------
+Image [84/267]: frankfurt_000001_012699
+Inference Time : 0.0674 s
+Overall mIoU   : 37.22%
+Per-Class IoU  :
+    road           : 96.53%
+    sidewalk       : 84.68%
+    building       : 71.42%
+    wall           : 0.00%
+    fence          : 32.78%
+    pole           : 22.59%
+    traffic light  : N/A
+    traffic sign   : 60.39%
+    vegetation     : 0.00%
+    terrain        : N/A
+    sky            : 74.27%
+    person         : 76.33%
+    rider          : 0.00%
+    car            : 0.00%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 2.15%
+--------------------------------------------------
+Image [85/267]: frankfurt_000001_012738
+Inference Time : 0.0680 s
+Overall mIoU   : 36.37%
+Per-Class IoU  :
+    road           : 96.95%
+    sidewalk       : 90.36%
+    building       : 50.54%
+    wall           : 0.00%
+    fence          : 2.27%
+    pole           : 31.88%
+    traffic light  : 0.00%
+    traffic sign   : 69.76%
+    vegetation     : 62.33%
+    terrain        : N/A
+    sky            : 57.36%
+    person         : 87.21%
+    rider          : 0.00%
+    car            : 6.62%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 26.70%
+--------------------------------------------------
+Image [86/267]: frankfurt_000001_012870
+Inference Time : 0.0698 s
+Overall mIoU   : 50.97%
+Per-Class IoU  :
+    road           : 90.46%
+    sidewalk       : 25.77%
+    building       : 91.42%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 32.17%
+    traffic light  : 0.00%
+    traffic sign   : 44.54%
+    vegetation     : 73.70%
+    terrain        : N/A
+    sky            : 94.73%
+    person         : 72.39%
+    rider          : 0.00%
+    car            : 60.40%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 76.98%
+--------------------------------------------------
+Image [87/267]: frankfurt_000001_013016
+Inference Time : 0.0714 s
+Overall mIoU   : 55.20%
+Per-Class IoU  :
+    road           : 91.37%
+    sidewalk       : 44.69%
+    building       : 90.15%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 30.99%
+    traffic light  : 0.00%
+    traffic sign   : 67.64%
+    vegetation     : 77.35%
+    terrain        : N/A
+    sky            : 92.58%
+    person         : 80.10%
+    rider          : 11.96%
+    car            : 67.08%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 63.66%
+--------------------------------------------------
+Image [88/267]: frankfurt_000001_013496
+Inference Time : 0.0638 s
+Overall mIoU   : 49.51%
+Per-Class IoU  :
+    road           : 98.01%
+    sidewalk       : 36.94%
+    building       : 90.65%
+    wall           : 16.92%
+    fence          : 0.00%
+    pole           : 32.96%
+    traffic light  : 0.00%
+    traffic sign   : 60.40%
+    vegetation     : 85.69%
+    terrain        : N/A
+    sky            : 67.13%
+    person         : 32.61%
+    rider          : 0.00%
+    car            : 95.18%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 76.65%
+--------------------------------------------------
+Image [89/267]: frankfurt_000001_013710
+Inference Time : 0.0625 s
+Overall mIoU   : 51.53%
+Per-Class IoU  :
+    road           : 97.98%
+    sidewalk       : 84.03%
+    building       : 90.13%
+    wall           : 79.52%
+    fence          : 0.00%
+    pole           : 39.51%
+    traffic light  : 31.95%
+    traffic sign   : 40.41%
+    vegetation     : 86.95%
+    terrain        : 0.00%
+    sky            : 93.64%
+    person         : 7.28%
+    rider          : 0.00%
+    car            : 83.68%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 37.86%
+--------------------------------------------------
+Image [90/267]: frankfurt_000001_014221
+Inference Time : 0.0642 s
+Overall mIoU   : 60.78%
+Per-Class IoU  :
+    road           : 98.32%
+    sidewalk       : 88.79%
+    building       : 90.63%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 46.86%
+    traffic light  : N/A
+    traffic sign   : 50.49%
+    vegetation     : 86.97%
+    terrain        : N/A
+    sky            : 88.81%
+    person         : 33.06%
+    rider          : N/A
+    car            : 96.04%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 49.42%
+--------------------------------------------------
+Image [91/267]: frankfurt_000001_014406
+Inference Time : 0.0588 s
+Overall mIoU   : 50.63%
+Per-Class IoU  :
+    road           : 97.60%
+    sidewalk       : 75.56%
+    building       : 87.73%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 41.37%
+    traffic light  : 0.00%
+    traffic sign   : 65.31%
+    vegetation     : 78.74%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 61.01%
+    rider          : N/A
+    car            : 84.32%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : 64.22%
+    bicycle        : 52.95%
+--------------------------------------------------
+Image [92/267]: frankfurt_000001_014565
+Inference Time : 0.0633 s
+Overall mIoU   : 38.71%
+Per-Class IoU  :
+    road           : 98.07%
+    sidewalk       : 91.76%
+    building       : 84.93%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 20.14%
+    traffic light  : 0.00%
+    traffic sign   : 55.54%
+    vegetation     : 43.13%
+    terrain        : N/A
+    sky            : 62.94%
+    person         : 21.79%
+    rider          : 0.00%
+    car            : 81.82%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 75.62%
+    motorcycle     : 0.00%
+    bicycle        : 22.37%
+--------------------------------------------------
+Image [93/267]: frankfurt_000001_014741
+Inference Time : 0.0549 s
+Overall mIoU   : 51.45%
+Per-Class IoU  :
+    road           : 97.56%
+    sidewalk       : 76.56%
+    building       : 88.79%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 46.88%
+    traffic light  : 11.38%
+    traffic sign   : 56.82%
+    vegetation     : 82.21%
+    terrain        : N/A
+    sky            : 91.25%
+    person         : 63.87%
+    rider          : 37.53%
+    car            : 66.25%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 52.61%
+--------------------------------------------------
+Image [94/267]: frankfurt_000001_015091
+Inference Time : 0.0619 s
+Overall mIoU   : 64.75%
+Per-Class IoU  :
+    road           : 99.44%
+    sidewalk       : 91.39%
+    building       : 94.57%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 42.73%
+    traffic light  : 0.00%
+    traffic sign   : 71.05%
+    vegetation     : 71.71%
+    terrain        : N/A
+    sky            : 91.84%
+    person         : 54.00%
+    rider          : N/A
+    car            : 95.52%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [95/267]: frankfurt_000001_015328
+Inference Time : 0.0672 s
+Overall mIoU   : 50.18%
+Per-Class IoU  :
+    road           : 98.83%
+    sidewalk       : 0.00%
+    building       : 95.47%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 11.72%
+    traffic light  : N/A
+    traffic sign   : 82.30%
+    vegetation     : 89.04%
+    terrain        : N/A
+    sky            : 93.77%
+    person         : 0.00%
+    rider          : 27.41%
+    car            : 95.40%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 8.25%
+--------------------------------------------------
+Image [96/267]: frankfurt_000001_015768
+Inference Time : 0.0616 s
+Overall mIoU   : 61.81%
+Per-Class IoU  :
+    road           : 97.48%
+    sidewalk       : 89.01%
+    building       : 94.13%
+    wall           : N/A
+    fence          : 10.85%
+    pole           : 44.02%
+    traffic light  : 0.00%
+    traffic sign   : 71.82%
+    vegetation     : 93.54%
+    terrain        : N/A
+    sky            : 77.38%
+    person         : 60.05%
+    rider          : 45.64%
+    car            : 94.71%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 24.93%
+--------------------------------------------------
+Image [97/267]: frankfurt_000001_016029
+Inference Time : 0.0611 s
+Overall mIoU   : 50.44%
+Per-Class IoU  :
+    road           : 98.65%
+    sidewalk       : 85.85%
+    building       : 87.54%
+    wall           : 69.26%
+    fence          : 30.03%
+    pole           : 56.43%
+    traffic light  : N/A
+    traffic sign   : 22.00%
+    vegetation     : 68.03%
+    terrain        : 0.00%
+    sky            : 86.03%
+    person         : 57.17%
+    rider          : N/A
+    car            : 0.00%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 45.23%
+--------------------------------------------------
+Image [98/267]: frankfurt_000001_016273
+Inference Time : 0.0645 s
+Overall mIoU   : 53.92%
+Per-Class IoU  :
+    road           : 98.89%
+    sidewalk       : 95.38%
+    building       : 87.93%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 42.98%
+    traffic light  : 37.66%
+    traffic sign   : 62.93%
+    vegetation     : 90.46%
+    terrain        : 39.26%
+    sky            : 90.01%
+    person         : 74.12%
+    rider          : N/A
+    car            : 89.18%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [99/267]: frankfurt_000001_016462
+Inference Time : 0.0606 s
+Overall mIoU   : 54.49%
+Per-Class IoU  :
+    road           : 94.09%
+    sidewalk       : 57.93%
+    building       : 68.39%
+    wall           : 0.00%
+    fence          : 49.96%
+    pole           : 43.55%
+    traffic light  : 64.54%
+    traffic sign   : 72.86%
+    vegetation     : 91.49%
+    terrain        : 72.10%
+    sky            : 94.26%
+    person         : 66.26%
+    rider          : 32.55%
+    car            : 0.00%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 63.80%
+--------------------------------------------------
+Image [100/267]: frankfurt_000001_017101
+Inference Time : 0.0656 s
+Overall mIoU   : 60.75%
+Per-Class IoU  :
+    road           : 94.92%
+    sidewalk       : 68.83%
+    building       : 82.27%
+    wall           : 0.00%
+    fence          : 82.90%
+    pole           : 37.89%
+    traffic light  : 59.29%
+    traffic sign   : 38.41%
+    vegetation     : 89.82%
+    terrain        : N/A
+    sky            : 93.96%
+    person         : 62.76%
+    rider          : N/A
+    car            : 78.66%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [101/267]: frankfurt_000001_017459
+Inference Time : 0.0662 s
+Overall mIoU   : 43.31%
+Per-Class IoU  :
+    road           : 44.27%
+    sidewalk       : 55.87%
+    building       : 75.55%
+    wall           : 7.25%
+    fence          : 7.06%
+    pole           : 55.23%
+    traffic light  : 81.77%
+    traffic sign   : 57.54%
+    vegetation     : 83.55%
+    terrain        : 0.00%
+    sky            : 0.00%
+    person         : 74.54%
+    rider          : 0.00%
+    car            : 83.54%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 66.84%
+--------------------------------------------------
+Image [102/267]: frankfurt_000001_017842
+Inference Time : 0.0653 s
+Overall mIoU   : 51.63%
+Per-Class IoU  :
+    road           : 96.57%
+    sidewalk       : 71.75%
+    building       : 44.86%
+    wall           : 2.14%
+    fence          : 0.00%
+    pole           : 60.99%
+    traffic light  : 42.15%
+    traffic sign   : 36.00%
+    vegetation     : 88.19%
+    terrain        : 20.24%
+    sky            : 92.70%
+    person         : 53.10%
+    rider          : 69.33%
+    car            : 79.45%
+    truck          : 0.00%
+    bus            : 46.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 74.23%
+--------------------------------------------------
+Image [103/267]: frankfurt_000001_018113
+Inference Time : 0.0659 s
+Overall mIoU   : 50.06%
+Per-Class IoU  :
+    road           : 99.03%
+    sidewalk       : 88.22%
+    building       : 77.98%
+    wall           : 0.00%
+    fence          : 78.79%
+    pole           : 43.19%
+    traffic light  : 0.00%
+    traffic sign   : 58.86%
+    vegetation     : 90.15%
+    terrain        : 13.44%
+    sky            : 87.72%
+    person         : 76.50%
+    rider          : 40.23%
+    car            : 89.81%
+    truck          : 9.66%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : 47.49%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [104/267]: frankfurt_000001_019698
+Inference Time : 0.0664 s
+Overall mIoU   : 50.14%
+Per-Class IoU  :
+    road           : 98.15%
+    sidewalk       : 85.33%
+    building       : 87.80%
+    wall           : N/A
+    fence          : 23.33%
+    pole           : 40.66%
+    traffic light  : 0.00%
+    traffic sign   : 28.26%
+    vegetation     : 90.38%
+    terrain        : 0.00%
+    sky            : 95.98%
+    person         : 55.78%
+    rider          : N/A
+    car            : 46.13%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [105/267]: frankfurt_000001_019854
+Inference Time : 0.0714 s
+Overall mIoU   : 48.62%
+Per-Class IoU  :
+    road           : 96.80%
+    sidewalk       : 54.87%
+    building       : 84.29%
+    wall           : 8.95%
+    fence          : 10.04%
+    pole           : 38.80%
+    traffic light  : 48.71%
+    traffic sign   : 82.65%
+    vegetation     : 87.83%
+    terrain        : 0.00%
+    sky            : 94.22%
+    person         : 76.18%
+    rider          : 0.00%
+    car            : 94.51%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [106/267]: frankfurt_000001_019969
+Inference Time : 0.0591 s
+Overall mIoU   : 60.60%
+Per-Class IoU  :
+    road           : 99.26%
+    sidewalk       : 89.02%
+    building       : 95.31%
+    wall           : N/A
+    fence          : 66.41%
+    pole           : 27.53%
+    traffic light  : 0.00%
+    traffic sign   : 42.48%
+    vegetation     : 89.45%
+    terrain        : 0.00%
+    sky            : 94.60%
+    person         : 47.04%
+    rider          : 66.78%
+    car            : 70.23%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 60.29%
+--------------------------------------------------
+Image [107/267]: frankfurt_000001_020046
+Inference Time : 0.0616 s
+Overall mIoU   : 58.56%
+Per-Class IoU  :
+    road           : 96.85%
+    sidewalk       : 58.87%
+    building       : 91.86%
+    wall           : N/A
+    fence          : 55.18%
+    pole           : 51.60%
+    traffic light  : 0.00%
+    traffic sign   : 52.02%
+    vegetation     : 86.65%
+    terrain        : 34.24%
+    sky            : 92.93%
+    person         : 53.94%
+    rider          : N/A
+    car            : 87.21%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [108/267]: frankfurt_000001_020287
+Inference Time : 0.0652 s
+Overall mIoU   : 67.12%
+Per-Class IoU  :
+    road           : 97.31%
+    sidewalk       : 88.28%
+    building       : 86.24%
+    wall           : 40.32%
+    fence          : 14.46%
+    pole           : 49.61%
+    traffic light  : 54.51%
+    traffic sign   : 90.24%
+    vegetation     : 93.78%
+    terrain        : N/A
+    sky            : 95.06%
+    person         : 61.20%
+    rider          : N/A
+    car            : 88.56%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 46.80%
+    bicycle        : 33.32%
+--------------------------------------------------
+Image [109/267]: frankfurt_000001_020693
+Inference Time : 0.0699 s
+Overall mIoU   : 59.85%
+Per-Class IoU  :
+    road           : 98.32%
+    sidewalk       : 85.93%
+    building       : 81.52%
+    wall           : 6.50%
+    fence          : 38.23%
+    pole           : 69.92%
+    traffic light  : 56.94%
+    traffic sign   : 57.83%
+    vegetation     : 90.78%
+    terrain        : 0.00%
+    sky            : 90.61%
+    person         : 38.89%
+    rider          : 44.64%
+    car            : 83.78%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 53.92%
+--------------------------------------------------
+Image [110/267]: frankfurt_000001_021406
+Inference Time : 0.0656 s
+Overall mIoU   : 65.17%
+Per-Class IoU  :
+    road           : 98.94%
+    sidewalk       : 85.91%
+    building       : 80.13%
+    wall           : 29.79%
+    fence          : 64.73%
+    pole           : 64.43%
+    traffic light  : 34.65%
+    traffic sign   : 55.10%
+    vegetation     : 84.85%
+    terrain        : N/A
+    sky            : 94.15%
+    person         : 84.20%
+    rider          : N/A
+    car            : 70.32%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [111/267]: frankfurt_000001_021825
+Inference Time : 0.0679 s
+Overall mIoU   : 55.91%
+Per-Class IoU  :
+    road           : 97.76%
+    sidewalk       : 68.40%
+    building       : 84.94%
+    wall           : 63.04%
+    fence          : 58.76%
+    pole           : 37.82%
+    traffic light  : 34.22%
+    traffic sign   : 52.91%
+    vegetation     : 84.16%
+    terrain        : 0.00%
+    sky            : 95.91%
+    person         : 69.19%
+    rider          : N/A
+    car            : 91.51%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [112/267]: frankfurt_000001_023235
+Inference Time : 0.0637 s
+Overall mIoU   : 49.60%
+Per-Class IoU  :
+    road           : 96.49%
+    sidewalk       : 76.02%
+    building       : 87.42%
+    wall           : 38.89%
+    fence          : 0.00%
+    pole           : 63.26%
+    traffic light  : 44.98%
+    traffic sign   : 54.68%
+    vegetation     : 86.28%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 59.62%
+    rider          : N/A
+    car            : 37.10%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : N/A
+--------------------------------------------------
+Image [113/267]: frankfurt_000001_023369
+Inference Time : 0.0620 s
+Overall mIoU   : 46.09%
+Per-Class IoU  :
+    road           : 97.75%
+    sidewalk       : 81.14%
+    building       : 89.03%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 23.49%
+    traffic light  : N/A
+    traffic sign   : 33.94%
+    vegetation     : 89.14%
+    terrain        : 0.00%
+    sky            : 0.00%
+    person         : 65.61%
+    rider          : N/A
+    car            : 76.22%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 42.80%
+--------------------------------------------------
+Image [114/267]: frankfurt_000001_023769
+Inference Time : 0.0687 s
+Overall mIoU   : 41.85%
+Per-Class IoU  :
+    road           : 91.63%
+    sidewalk       : 28.88%
+    building       : 87.78%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 13.32%
+    traffic light  : 21.63%
+    traffic sign   : 40.14%
+    vegetation     : 88.83%
+    terrain        : 62.73%
+    sky            : 85.69%
+    person         : 59.08%
+    rider          : 0.00%
+    car            : 89.87%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [115/267]: frankfurt_000001_024927
+Inference Time : 0.0590 s
+Overall mIoU   : 49.64%
+Per-Class IoU  :
+    road           : 98.92%
+    sidewalk       : 64.57%
+    building       : 88.00%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 55.12%
+    traffic light  : 37.67%
+    traffic sign   : 44.63%
+    vegetation     : 83.50%
+    terrain        : N/A
+    sky            : 94.24%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 92.98%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 26.43%
+    bicycle        : 58.60%
+--------------------------------------------------
+Image [116/267]: frankfurt_000001_025512
+Inference Time : 0.0599 s
+Overall mIoU   : 51.01%
+Per-Class IoU  :
+    road           : 93.01%
+    sidewalk       : 73.26%
+    building       : 79.00%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 48.89%
+    traffic light  : 38.21%
+    traffic sign   : 22.81%
+    vegetation     : 90.44%
+    terrain        : 0.00%
+    sky            : 93.66%
+    person         : 78.56%
+    rider          : N/A
+    car            : 32.67%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 63.66%
+--------------------------------------------------
+Image [117/267]: frankfurt_000001_025713
+Inference Time : 0.0628 s
+Overall mIoU   : 53.75%
+Per-Class IoU  :
+    road           : 94.53%
+    sidewalk       : 73.04%
+    building       : 81.43%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 52.40%
+    traffic light  : 42.91%
+    traffic sign   : 31.54%
+    vegetation     : 91.11%
+    terrain        : N/A
+    sky            : 95.75%
+    person         : 66.51%
+    rider          : N/A
+    car            : 31.49%
+    truck          : N/A
+    bus            : 0.00%
+    train          : 78.92%
+    motorcycle     : N/A
+    bicycle        : 66.69%
+--------------------------------------------------
+Image [118/267]: frankfurt_000001_025921
+Inference Time : 0.0665 s
+Overall mIoU   : 49.83%
+Per-Class IoU  :
+    road           : 94.24%
+    sidewalk       : 69.97%
+    building       : 71.06%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 53.20%
+    traffic light  : 41.59%
+    traffic sign   : 17.64%
+    vegetation     : 91.43%
+    terrain        : N/A
+    sky            : 89.09%
+    person         : 69.89%
+    rider          : N/A
+    car            : 93.22%
+    truck          : 0.00%
+    bus            : N/A
+    train          : 56.09%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [119/267]: frankfurt_000001_027325
+Inference Time : 0.0701 s
+Overall mIoU   : 48.38%
+Per-Class IoU  :
+    road           : 97.34%
+    sidewalk       : 37.32%
+    building       : 86.73%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 49.63%
+    traffic light  : 36.62%
+    traffic sign   : 84.71%
+    vegetation     : 91.39%
+    terrain        : 19.66%
+    sky            : 5.56%
+    person         : 46.32%
+    rider          : N/A
+    car            : 87.36%
+    truck          : 0.00%
+    bus            : 83.05%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [120/267]: frankfurt_000001_028232
+Inference Time : 0.0570 s
+Overall mIoU   : 43.08%
+Per-Class IoU  :
+    road           : 98.43%
+    sidewalk       : 81.10%
+    building       : 90.24%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 52.88%
+    traffic light  : 0.00%
+    traffic sign   : 2.82%
+    vegetation     : 88.98%
+    terrain        : 14.28%
+    sky            : 89.23%
+    person         : 32.70%
+    rider          : N/A
+    car            : 94.61%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.88%
+--------------------------------------------------
+Image [121/267]: frankfurt_000001_028335
+Inference Time : 0.0592 s
+Overall mIoU   : 56.27%
+Per-Class IoU  :
+    road           : 98.03%
+    sidewalk       : 86.87%
+    building       : 89.69%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 41.63%
+    traffic light  : 21.86%
+    traffic sign   : 55.66%
+    vegetation     : 78.59%
+    terrain        : N/A
+    sky            : 95.53%
+    person         : 64.16%
+    rider          : N/A
+    car            : 94.65%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 4.84%
+--------------------------------------------------
+Image [122/267]: frankfurt_000001_028590
+Inference Time : 0.0651 s
+Overall mIoU   : 48.07%
+Per-Class IoU  :
+    road           : 98.32%
+    sidewalk       : 82.83%
+    building       : 73.92%
+    wall           : 0.00%
+    fence          : 7.39%
+    pole           : 22.22%
+    traffic light  : N/A
+    traffic sign   : 56.60%
+    vegetation     : 55.64%
+    terrain        : 0.00%
+    sky            : 93.18%
+    person         : 46.32%
+    rider          : N/A
+    car            : 88.45%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [123/267]: frankfurt_000001_028854
+Inference Time : 0.0662 s
+Overall mIoU   : 57.96%
+Per-Class IoU  :
+    road           : 97.83%
+    sidewalk       : 83.14%
+    building       : 81.95%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 43.68%
+    traffic light  : 44.20%
+    traffic sign   : 63.68%
+    vegetation     : 79.81%
+    terrain        : N/A
+    sky            : 94.95%
+    person         : 70.12%
+    rider          : N/A
+    car            : 85.26%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 66.77%
+--------------------------------------------------
+Image [124/267]: frankfurt_000001_029086
+Inference Time : 0.0662 s
+Overall mIoU   : 57.43%
+Per-Class IoU  :
+    road           : 98.87%
+    sidewalk       : 80.02%
+    building       : 83.20%
+    wall           : 31.60%
+    fence          : 0.00%
+    pole           : 43.63%
+    traffic light  : 46.84%
+    traffic sign   : 73.90%
+    vegetation     : 82.87%
+    terrain        : 0.06%
+    sky            : 93.84%
+    person         : 53.89%
+    rider          : N/A
+    car            : 79.28%
+    truck          : 93.40%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [125/267]: frankfurt_000001_029236
+Inference Time : 0.0667 s
+Overall mIoU   : 45.10%
+Per-Class IoU  :
+    road           : 96.26%
+    sidewalk       : 9.65%
+    building       : 90.77%
+    wall           : 0.00%
+    fence          : 74.45%
+    pole           : 18.57%
+    traffic light  : 9.91%
+    traffic sign   : 55.94%
+    vegetation     : 43.76%
+    terrain        : N/A
+    sky            : 78.84%
+    person         : 62.07%
+    rider          : N/A
+    car            : 91.14%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : N/A
+--------------------------------------------------
+Image [126/267]: frankfurt_000001_029600
+Inference Time : 0.0577 s
+Overall mIoU   : 33.10%
+Per-Class IoU  :
+    road           : 91.68%
+    sidewalk       : 0.00%
+    building       : 89.43%
+    wall           : 73.06%
+    fence          : 1.18%
+    pole           : 37.01%
+    traffic light  : 0.00%
+    traffic sign   : 0.00%
+    vegetation     : 71.80%
+    terrain        : 0.00%
+    sky            : 89.84%
+    person         : 46.87%
+    rider          : 0.00%
+    car            : 94.93%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [127/267]: frankfurt_000001_030067
+Inference Time : 0.0657 s
+Overall mIoU   : 55.99%
+Per-Class IoU  :
+    road           : 98.59%
+    sidewalk       : 51.82%
+    building       : 92.97%
+    wall           : 78.27%
+    fence          : 41.53%
+    pole           : 38.70%
+    traffic light  : 33.68%
+    traffic sign   : 33.68%
+    vegetation     : 75.98%
+    terrain        : N/A
+    sky            : 91.77%
+    person         : 0.00%
+    rider          : N/A
+    car            : 85.40%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.47%
+--------------------------------------------------
+Image [128/267]: frankfurt_000001_030310
+Inference Time : 0.0668 s
+Overall mIoU   : 61.83%
+Per-Class IoU  :
+    road           : 98.82%
+    sidewalk       : 85.12%
+    building       : 93.35%
+    wall           : 0.00%
+    fence          : 16.12%
+    pole           : 35.97%
+    traffic light  : 7.32%
+    traffic sign   : 59.30%
+    vegetation     : 76.82%
+    terrain        : N/A
+    sky            : 96.55%
+    person         : 77.41%
+    rider          : N/A
+    car            : 95.23%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [129/267]: frankfurt_000001_030669
+Inference Time : 0.0655 s
+Overall mIoU   : 60.18%
+Per-Class IoU  :
+    road           : 97.23%
+    sidewalk       : 93.68%
+    building       : 78.47%
+    wall           : 21.86%
+    fence          : 79.43%
+    pole           : 39.86%
+    traffic light  : 40.00%
+    traffic sign   : 41.98%
+    vegetation     : 87.05%
+    terrain        : 0.00%
+    sky            : 93.57%
+    person         : 75.78%
+    rider          : N/A
+    car            : 93.60%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [130/267]: frankfurt_000001_031266
+Inference Time : 0.0664 s
+Overall mIoU   : 61.59%
+Per-Class IoU  :
+    road           : 99.33%
+    sidewalk       : 92.69%
+    building       : 94.16%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 60.20%
+    traffic light  : 9.32%
+    traffic sign   : 79.50%
+    vegetation     : 93.56%
+    terrain        : N/A
+    sky            : 91.85%
+    person         : 0.16%
+    rider          : 29.43%
+    car            : 92.14%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 58.29%
+--------------------------------------------------
+Image [131/267]: frankfurt_000001_031416
+Inference Time : 0.0723 s
+Overall mIoU   : 54.41%
+Per-Class IoU  :
+    road           : 98.73%
+    sidewalk       : 74.86%
+    building       : 93.71%
+    wall           : N/A
+    fence          : N/A
+    pole           : 29.20%
+    traffic light  : 0.00%
+    traffic sign   : 47.69%
+    vegetation     : 86.84%
+    terrain        : N/A
+    sky            : 92.55%
+    person         : 22.01%
+    rider          : 0.00%
+    car            : 91.31%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 70.42%
+--------------------------------------------------
+Image [132/267]: frankfurt_000001_032018
+Inference Time : 0.0623 s
+Overall mIoU   : 64.39%
+Per-Class IoU  :
+    road           : 96.46%
+    sidewalk       : 66.80%
+    building       : 92.18%
+    wall           : N/A
+    fence          : N/A
+    pole           : 35.27%
+    traffic light  : 44.68%
+    traffic sign   : 39.25%
+    vegetation     : 82.68%
+    terrain        : N/A
+    sky            : 89.93%
+    person         : 67.48%
+    rider          : N/A
+    car            : 93.61%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [133/267]: frankfurt_000001_032556
+Inference Time : 0.0566 s
+Overall mIoU   : 47.51%
+Per-Class IoU  :
+    road           : 98.84%
+    sidewalk       : 77.21%
+    building       : 93.42%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 42.29%
+    traffic light  : 22.27%
+    traffic sign   : 36.01%
+    vegetation     : 78.02%
+    terrain        : N/A
+    sky            : 94.22%
+    person         : 50.06%
+    rider          : 0.00%
+    car            : 72.81%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [134/267]: frankfurt_000001_032711
+Inference Time : 0.0663 s
+Overall mIoU   : 42.26%
+Per-Class IoU  :
+    road           : 98.92%
+    sidewalk       : 14.05%
+    building       : 91.30%
+    wall           : N/A
+    fence          : N/A
+    pole           : 17.15%
+    traffic light  : 0.00%
+    traffic sign   : 60.57%
+    vegetation     : 0.00%
+    terrain        : N/A
+    sky            : 88.54%
+    person         : 41.46%
+    rider          : N/A
+    car            : 95.15%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [135/267]: frankfurt_000001_032942
+Inference Time : 0.0595 s
+Overall mIoU   : 51.24%
+Per-Class IoU  :
+    road           : 98.56%
+    sidewalk       : 36.64%
+    building       : 87.87%
+    wall           : N/A
+    fence          : N/A
+    pole           : 46.99%
+    traffic light  : N/A
+    traffic sign   : 37.29%
+    vegetation     : 0.00%
+    terrain        : N/A
+    sky            : 93.28%
+    person         : 8.79%
+    rider          : N/A
+    car            : 94.46%
+    truck          : 61.02%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 50.02%
+--------------------------------------------------
+Image [136/267]: frankfurt_000001_033655
+Inference Time : 0.0693 s
+Overall mIoU   : 42.64%
+Per-Class IoU  :
+    road           : 99.17%
+    sidewalk       : 0.00%
+    building       : 93.41%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 8.26%
+    traffic light  : 29.30%
+    traffic sign   : 16.61%
+    vegetation     : 61.20%
+    terrain        : N/A
+    sky            : 90.89%
+    person         : 59.01%
+    rider          : 0.00%
+    car            : 96.51%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [137/267]: frankfurt_000001_034047
+Inference Time : 0.0670 s
+Overall mIoU   : 53.82%
+Per-Class IoU  :
+    road           : 98.77%
+    sidewalk       : 84.81%
+    building       : 87.12%
+    wall           : 1.93%
+    fence          : 0.00%
+    pole           : 39.02%
+    traffic light  : 27.40%
+    traffic sign   : 60.57%
+    vegetation     : 87.98%
+    terrain        : N/A
+    sky            : 94.36%
+    person         : 76.59%
+    rider          : 0.00%
+    car            : 57.08%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 37.84%
+--------------------------------------------------
+Image [138/267]: frankfurt_000001_034816
+Inference Time : 0.0635 s
+Overall mIoU   : 30.58%
+Per-Class IoU  :
+    road           : 87.21%
+    sidewalk       : 77.49%
+    building       : 0.43%
+    wall           : 10.28%
+    fence          : 0.00%
+    pole           : 69.58%
+    traffic light  : 1.73%
+    traffic sign   : 69.68%
+    vegetation     : 93.20%
+    terrain        : 22.43%
+    sky            : 0.00%
+    person         : 34.73%
+    rider          : N/A
+    car            : 0.00%
+    truck          : 0.00%
+    bus            : 6.05%
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 47.08%
+--------------------------------------------------
+Image [139/267]: frankfurt_000001_035144
+Inference Time : 0.0678 s
+Overall mIoU   : 55.54%
+Per-Class IoU  :
+    road           : 91.69%
+    sidewalk       : 45.69%
+    building       : 88.77%
+    wall           : 73.07%
+    fence          : 5.08%
+    pole           : 53.40%
+    traffic light  : 29.67%
+    traffic sign   : 75.12%
+    vegetation     : 79.43%
+    terrain        : N/A
+    sky            : 94.46%
+    person         : 44.25%
+    rider          : 0.00%
+    car            : 92.70%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 59.84%
+--------------------------------------------------
+Image [140/267]: frankfurt_000001_035864
+Inference Time : 0.0596 s
+Overall mIoU   : 50.74%
+Per-Class IoU  :
+    road           : 97.36%
+    sidewalk       : 70.46%
+    building       : 91.07%
+    wall           : 54.80%
+    fence          : 0.00%
+    pole           : 75.69%
+    traffic light  : 0.00%
+    traffic sign   : 68.37%
+    vegetation     : 90.21%
+    terrain        : N/A
+    sky            : 95.40%
+    person         : 0.00%
+    rider          : N/A
+    car            : 73.60%
+    truck          : 0.00%
+    bus            : 44.17%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [141/267]: frankfurt_000001_037705
+Inference Time : 0.0594 s
+Overall mIoU   : 46.43%
+Per-Class IoU  :
+    road           : 83.41%
+    sidewalk       : 47.57%
+    building       : 85.97%
+    wall           : 0.09%
+    fence          : 36.96%
+    pole           : 53.38%
+    traffic light  : 68.59%
+    traffic sign   : 65.25%
+    vegetation     : 88.05%
+    terrain        : N/A
+    sky            : 80.98%
+    person         : 78.92%
+    rider          : 0.00%
+    car            : 94.77%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 5.42%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [142/267]: frankfurt_000001_038245
+Inference Time : 0.0705 s
+Overall mIoU   : 50.57%
+Per-Class IoU  :
+    road           : 98.63%
+    sidewalk       : 74.02%
+    building       : 86.07%
+    wall           : N/A
+    fence          : 20.98%
+    pole           : 29.61%
+    traffic light  : 54.26%
+    traffic sign   : 15.29%
+    vegetation     : 88.09%
+    terrain        : N/A
+    sky            : 61.69%
+    person         : 43.20%
+    rider          : 0.00%
+    car            : 88.06%
+    truck          : N/A
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 48.11%
+--------------------------------------------------
+Image [143/267]: frankfurt_000001_038418
+Inference Time : 0.0619 s
+Overall mIoU   : 54.61%
+Per-Class IoU  :
+    road           : 99.02%
+    sidewalk       : 59.94%
+    building       : 89.23%
+    wall           : 31.11%
+    fence          : 13.19%
+    pole           : 43.63%
+    traffic light  : 23.27%
+    traffic sign   : 47.86%
+    vegetation     : 88.68%
+    terrain        : N/A
+    sky            : N/A
+    person         : 54.36%
+    rider          : 0.00%
+    car            : 91.10%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 68.54%
+--------------------------------------------------
+Image [144/267]: frankfurt_000001_038645
+Inference Time : 0.0676 s
+Overall mIoU   : 38.78%
+Per-Class IoU  :
+    road           : 98.90%
+    sidewalk       : 82.40%
+    building       : 86.54%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 28.02%
+    traffic light  : 1.21%
+    traffic sign   : 42.76%
+    vegetation     : 84.14%
+    terrain        : N/A
+    sky            : 59.03%
+    person         : 32.90%
+    rider          : 0.00%
+    car            : 67.68%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 75.68%
+--------------------------------------------------
+Image [145/267]: frankfurt_000001_038844
+Inference Time : 0.0621 s
+Overall mIoU   : 42.58%
+Per-Class IoU  :
+    road           : 97.13%
+    sidewalk       : 86.55%
+    building       : 87.59%
+    wall           : 5.83%
+    fence          : 0.00%
+    pole           : 54.41%
+    traffic light  : 63.44%
+    traffic sign   : 0.00%
+    vegetation     : 91.33%
+    terrain        : N/A
+    sky            : 88.35%
+    person         : 31.61%
+    rider          : 0.00%
+    car            : 94.87%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 6.34%
+    motorcycle     : 0.00%
+    bicycle        : 59.04%
+--------------------------------------------------
+Image [146/267]: frankfurt_000001_039895
+Inference Time : 0.0678 s
+Overall mIoU   : 49.24%
+Per-Class IoU  :
+    road           : 97.20%
+    sidewalk       : 34.36%
+    building       : 84.90%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 66.24%
+    traffic light  : 40.61%
+    traffic sign   : 40.84%
+    vegetation     : 83.15%
+    terrain        : 0.00%
+    sky            : 77.54%
+    person         : 13.00%
+    rider          : 0.00%
+    car            : 92.62%
+    truck          : N/A
+    bus            : 93.73%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 63.74%
+--------------------------------------------------
+Image [147/267]: frankfurt_000001_040575
+Inference Time : 0.0583 s
+Overall mIoU   : 52.60%
+Per-Class IoU  :
+    road           : 96.11%
+    sidewalk       : 39.86%
+    building       : 86.16%
+    wall           : 10.53%
+    fence          : 35.78%
+    pole           : 53.08%
+    traffic light  : 36.14%
+    traffic sign   : 53.14%
+    vegetation     : 82.68%
+    terrain        : 0.00%
+    sky            : 76.98%
+    person         : 80.14%
+    rider          : N/A
+    car            : 73.15%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 65.23%
+--------------------------------------------------
+Image [148/267]: frankfurt_000001_040732
+Inference Time : 0.0670 s
+Overall mIoU   : 43.00%
+Per-Class IoU  :
+    road           : 96.60%
+    sidewalk       : 53.18%
+    building       : 85.21%
+    wall           : 1.58%
+    fence          : 0.00%
+    pole           : 42.26%
+    traffic light  : 26.95%
+    traffic sign   : 18.01%
+    vegetation     : 87.97%
+    terrain        : 4.34%
+    sky            : 81.41%
+    person         : 0.00%
+    rider          : 54.52%
+    car            : 67.93%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 68.13%
+--------------------------------------------------
+Image [149/267]: frankfurt_000001_041074
+Inference Time : 0.0713 s
+Overall mIoU   : 45.69%
+Per-Class IoU  :
+    road           : 98.67%
+    sidewalk       : 72.42%
+    building       : 60.62%
+    wall           : 28.48%
+    fence          : 57.97%
+    pole           : 43.56%
+    traffic light  : 1.13%
+    traffic sign   : 25.88%
+    vegetation     : 89.29%
+    terrain        : 18.57%
+    sky            : 93.81%
+    person         : 68.46%
+    rider          : N/A
+    car            : 26.49%
+    truck          : N/A
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [150/267]: frankfurt_000001_041354
+Inference Time : 0.0606 s
+Overall mIoU   : 43.04%
+Per-Class IoU  :
+    road           : 99.22%
+    sidewalk       : 97.29%
+    building       : 76.84%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 15.48%
+    traffic light  : 0.00%
+    traffic sign   : 32.99%
+    vegetation     : 88.66%
+    terrain        : 5.68%
+    sky            : 92.46%
+    person         : 0.00%
+    rider          : N/A
+    car            : 93.88%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [151/267]: frankfurt_000001_041517
+Inference Time : 0.0720 s
+Overall mIoU   : 47.29%
+Per-Class IoU  :
+    road           : 97.52%
+    sidewalk       : 78.44%
+    building       : 84.93%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 52.79%
+    traffic light  : 0.00%
+    traffic sign   : 66.67%
+    vegetation     : 93.42%
+    terrain        : 36.11%
+    sky            : 95.90%
+    person         : 0.00%
+    rider          : N/A
+    car            : 61.06%
+    truck          : 89.74%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [152/267]: frankfurt_000001_041664
+Inference Time : 0.0591 s
+Overall mIoU   : 50.47%
+Per-Class IoU  :
+    road           : 97.98%
+    sidewalk       : 89.37%
+    building       : 65.79%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 56.99%
+    traffic light  : 54.01%
+    traffic sign   : 54.66%
+    vegetation     : 92.75%
+    terrain        : 11.18%
+    sky            : 0.00%
+    person         : 69.17%
+    rider          : N/A
+    car            : 81.69%
+    truck          : 83.43%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [153/267]: frankfurt_000001_042098
+Inference Time : 0.0618 s
+Overall mIoU   : 42.35%
+Per-Class IoU  :
+    road           : 97.72%
+    sidewalk       : 76.67%
+    building       : 52.87%
+    wall           : 75.93%
+    fence          : 0.00%
+    pole           : 33.44%
+    traffic light  : 19.11%
+    traffic sign   : 57.45%
+    vegetation     : 89.02%
+    terrain        : 30.45%
+    sky            : 88.80%
+    person         : 5.09%
+    rider          : 0.00%
+    car            : 51.07%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [154/267]: frankfurt_000001_042384
+Inference Time : 0.0631 s
+Overall mIoU   : 57.68%
+Per-Class IoU  :
+    road           : 99.08%
+    sidewalk       : 85.45%
+    building       : 75.70%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 53.08%
+    traffic light  : 76.09%
+    traffic sign   : 39.25%
+    vegetation     : 89.00%
+    terrain        : 20.78%
+    sky            : 94.73%
+    person         : 56.78%
+    rider          : N/A
+    car            : 59.86%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [155/267]: frankfurt_000001_042733
+Inference Time : 0.0599 s
+Overall mIoU   : 60.58%
+Per-Class IoU  :
+    road           : 95.97%
+    sidewalk       : 89.72%
+    building       : 80.83%
+    wall           : 16.51%
+    fence          : 44.68%
+    pole           : 29.88%
+    traffic light  : 28.77%
+    traffic sign   : 67.10%
+    vegetation     : 86.73%
+    terrain        : N/A
+    sky            : 87.46%
+    person         : 0.00%
+    rider          : 63.07%
+    car            : 95.67%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.66%
+--------------------------------------------------
+Image [156/267]: frankfurt_000001_043395
+Inference Time : 0.0637 s
+Overall mIoU   : 55.14%
+Per-Class IoU  :
+    road           : 99.07%
+    sidewalk       : 66.53%
+    building       : 91.83%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 29.88%
+    traffic light  : 39.00%
+    traffic sign   : 63.09%
+    vegetation     : 90.75%
+    terrain        : 0.00%
+    sky            : 93.67%
+    person         : 0.00%
+    rider          : 45.05%
+    car            : 94.55%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 58.48%
+--------------------------------------------------
+Image [157/267]: frankfurt_000001_043564
+Inference Time : 0.0642 s
+Overall mIoU   : 41.45%
+Per-Class IoU  :
+    road           : 96.30%
+    sidewalk       : 66.10%
+    building       : 53.68%
+    wall           : 0.00%
+    fence          : 74.16%
+    pole           : 21.86%
+    traffic light  : 0.00%
+    traffic sign   : 54.48%
+    vegetation     : 93.44%
+    terrain        : 0.00%
+    sky            : 90.29%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 71.42%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [158/267]: frankfurt_000001_044227
+Inference Time : 0.0612 s
+Overall mIoU   : 48.64%
+Per-Class IoU  :
+    road           : 87.22%
+    sidewalk       : 51.68%
+    building       : 68.53%
+    wall           : 0.14%
+    fence          : 31.74%
+    pole           : 60.02%
+    traffic light  : 0.00%
+    traffic sign   : 52.48%
+    vegetation     : 87.30%
+    terrain        : 0.00%
+    sky            : 90.17%
+    person         : 0.00%
+    rider          : 53.93%
+    car            : 93.45%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 53.01%
+--------------------------------------------------
+Image [159/267]: frankfurt_000001_044413
+Inference Time : 0.0745 s
+Overall mIoU   : 43.13%
+Per-Class IoU  :
+    road           : 95.10%
+    sidewalk       : 76.36%
+    building       : 62.84%
+    wall           : N/A
+    fence          : N/A
+    pole           : 17.23%
+    traffic light  : 0.00%
+    traffic sign   : 28.32%
+    vegetation     : 95.61%
+    terrain        : 0.00%
+    sky            : 95.72%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 89.50%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [160/267]: frankfurt_000001_044525
+Inference Time : 0.0627 s
+Overall mIoU   : 42.27%
+Per-Class IoU  :
+    road           : 98.48%
+    sidewalk       : 62.03%
+    building       : 68.81%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 38.80%
+    traffic light  : 25.81%
+    traffic sign   : 25.21%
+    vegetation     : 87.71%
+    terrain        : 0.28%
+    sky            : 97.11%
+    person         : 70.00%
+    rider          : 24.29%
+    car            : 77.86%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [161/267]: frankfurt_000001_044658
+Inference Time : 0.0612 s
+Overall mIoU   : 52.94%
+Per-Class IoU  :
+    road           : 99.11%
+    sidewalk       : 72.28%
+    building       : 78.54%
+    wall           : 4.32%
+    fence          : 57.20%
+    pole           : 67.35%
+    traffic light  : 14.75%
+    traffic sign   : 76.32%
+    vegetation     : 90.47%
+    terrain        : 0.00%
+    sky            : 78.30%
+    person         : 59.04%
+    rider          : 0.00%
+    car            : 94.03%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 2.38%
+--------------------------------------------------
+Image [162/267]: frankfurt_000001_044787
+Inference Time : 0.0653 s
+Overall mIoU   : 47.95%
+Per-Class IoU  :
+    road           : 99.57%
+    sidewalk       : 21.31%
+    building       : 57.25%
+    wall           : 0.00%
+    fence          : 0.76%
+    pole           : 18.23%
+    traffic light  : 45.84%
+    traffic sign   : 45.82%
+    vegetation     : 76.24%
+    terrain        : 8.93%
+    sky            : 70.06%
+    person         : 53.51%
+    rider          : 62.85%
+    car            : 87.62%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 71.20%
+--------------------------------------------------
+Image [163/267]: frankfurt_000001_046126
+Inference Time : 0.0636 s
+Overall mIoU   : 44.84%
+Per-Class IoU  :
+    road           : 99.45%
+    sidewalk       : 66.99%
+    building       : 68.75%
+    wall           : 3.81%
+    fence          : 0.00%
+    pole           : 38.58%
+    traffic light  : 28.07%
+    traffic sign   : 56.34%
+    vegetation     : 90.28%
+    terrain        : 2.34%
+    sky            : 91.13%
+    person         : 0.00%
+    rider          : 38.30%
+    car            : 86.57%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 46.88%
+--------------------------------------------------
+Image [164/267]: frankfurt_000001_046272
+Inference Time : 0.0664 s
+Overall mIoU   : 56.96%
+Per-Class IoU  :
+    road           : 97.18%
+    sidewalk       : 91.36%
+    building       : 79.06%
+    wall           : 79.82%
+    fence          : 2.45%
+    pole           : 47.46%
+    traffic light  : N/A
+    traffic sign   : 43.66%
+    vegetation     : 86.65%
+    terrain        : 46.70%
+    sky            : 67.96%
+    person         : 75.85%
+    rider          : N/A
+    car            : 79.33%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [165/267]: frankfurt_000001_046504
+Inference Time : 0.0683 s
+Overall mIoU   : 58.50%
+Per-Class IoU  :
+    road           : 98.72%
+    sidewalk       : 89.73%
+    building       : 71.12%
+    wall           : 28.62%
+    fence          : 56.81%
+    pole           : 46.62%
+    traffic light  : N/A
+    traffic sign   : 0.51%
+    vegetation     : 88.00%
+    terrain        : N/A
+    sky            : 47.36%
+    person         : 56.58%
+    rider          : N/A
+    car            : 91.81%
+    truck          : 84.57%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [166/267]: frankfurt_000001_046779
+Inference Time : 0.0628 s
+Overall mIoU   : 40.60%
+Per-Class IoU  :
+    road           : 97.71%
+    sidewalk       : 8.78%
+    building       : 68.24%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 19.93%
+    traffic light  : 0.00%
+    traffic sign   : 38.11%
+    vegetation     : 92.55%
+    terrain        : 0.00%
+    sky            : 93.51%
+    person         : 58.58%
+    rider          : N/A
+    car            : 90.99%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [167/267]: frankfurt_000001_047178
+Inference Time : 0.0755 s
+Overall mIoU   : 54.01%
+Per-Class IoU  :
+    road           : 97.44%
+    sidewalk       : 0.00%
+    building       : 87.12%
+    wall           : N/A
+    fence          : N/A
+    pole           : 31.68%
+    traffic light  : N/A
+    traffic sign   : 66.34%
+    vegetation     : 92.19%
+    terrain        : 0.00%
+    sky            : 96.31%
+    person         : 0.00%
+    rider          : 58.75%
+    car            : 96.98%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 21.37%
+--------------------------------------------------
+Image [168/267]: frankfurt_000001_047552
+Inference Time : 0.0653 s
+Overall mIoU   : 63.19%
+Per-Class IoU  :
+    road           : 97.88%
+    sidewalk       : 73.95%
+    building       : 87.18%
+    wall           : 44.79%
+    fence          : N/A
+    pole           : 48.71%
+    traffic light  : N/A
+    traffic sign   : 7.08%
+    vegetation     : 89.50%
+    terrain        : 0.00%
+    sky            : 86.54%
+    person         : N/A
+    rider          : N/A
+    car            : 96.31%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [169/267]: frankfurt_000001_048196
+Inference Time : 0.0631 s
+Overall mIoU   : 67.49%
+Per-Class IoU  :
+    road           : 98.94%
+    sidewalk       : 83.19%
+    building       : 92.03%
+    wall           : 70.08%
+    fence          : 80.92%
+    pole           : 29.89%
+    traffic light  : N/A
+    traffic sign   : 69.03%
+    vegetation     : 87.22%
+    terrain        : N/A
+    sky            : 52.45%
+    person         : 68.12%
+    rider          : N/A
+    car            : 90.38%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 55.12%
+--------------------------------------------------
+Image [170/267]: frankfurt_000001_048355
+Inference Time : 0.0589 s
+Overall mIoU   : 50.84%
+Per-Class IoU  :
+    road           : 96.96%
+    sidewalk       : 64.55%
+    building       : 91.71%
+    wall           : 0.00%
+    fence          : 81.50%
+    pole           : 34.46%
+    traffic light  : N/A
+    traffic sign   : 73.46%
+    vegetation     : 84.61%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 19.11%
+    rider          : N/A
+    car            : 95.25%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 19.37%
+--------------------------------------------------
+Image [171/267]: frankfurt_000001_048654
+Inference Time : 0.0696 s
+Overall mIoU   : 57.10%
+Per-Class IoU  :
+    road           : 99.08%
+    sidewalk       : 81.16%
+    building       : 90.17%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 7.78%
+    traffic light  : 44.12%
+    traffic sign   : 55.45%
+    vegetation     : 88.83%
+    terrain        : 0.00%
+    sky            : 85.30%
+    person         : 57.54%
+    rider          : N/A
+    car            : 70.02%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 62.44%
+    bicycle        : 57.53%
+--------------------------------------------------
+Image [172/267]: frankfurt_000001_049078
+Inference Time : 0.0676 s
+Overall mIoU   : 41.43%
+Per-Class IoU  :
+    road           : 98.74%
+    sidewalk       : 83.13%
+    building       : 86.06%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 1.36%
+    traffic light  : 0.00%
+    traffic sign   : 6.92%
+    vegetation     : 94.29%
+    terrain        : 0.00%
+    sky            : 75.94%
+    person         : 0.00%
+    rider          : N/A
+    car            : 92.21%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [173/267]: frankfurt_000001_049209
+Inference Time : 0.0667 s
+Overall mIoU   : 43.31%
+Per-Class IoU  :
+    road           : 97.90%
+    sidewalk       : 70.77%
+    building       : 88.91%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 15.84%
+    traffic light  : 30.75%
+    traffic sign   : 13.56%
+    vegetation     : 85.96%
+    terrain        : 0.00%
+    sky            : 94.46%
+    person         : 9.48%
+    rider          : 42.07%
+    car            : 89.08%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 20.21%
+    bicycle        : 33.91%
+--------------------------------------------------
+Image [174/267]: frankfurt_000001_049298
+Inference Time : 0.0604 s
+Overall mIoU   : 52.13%
+Per-Class IoU  :
+    road           : 99.05%
+    sidewalk       : 81.04%
+    building       : 96.16%
+    wall           : N/A
+    fence          : N/A
+    pole           : 13.06%
+    traffic light  : 25.95%
+    traffic sign   : 43.02%
+    vegetation     : 85.19%
+    terrain        : 0.00%
+    sky            : 96.35%
+    person         : 24.89%
+    rider          : 0.00%
+    car            : 59.16%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 53.78%
+--------------------------------------------------
+Image [175/267]: frankfurt_000001_049698
+Inference Time : 0.0660 s
+Overall mIoU   : 51.10%
+Per-Class IoU  :
+    road           : 92.13%
+    sidewalk       : 67.08%
+    building       : 68.32%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 62.39%
+    traffic light  : 38.43%
+    traffic sign   : 49.26%
+    vegetation     : 91.71%
+    terrain        : 44.44%
+    sky            : 63.83%
+    person         : 88.37%
+    rider          : N/A
+    car            : 83.71%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 16.88%
+--------------------------------------------------
+Image [176/267]: frankfurt_000001_049770
+Inference Time : 0.0602 s
+Overall mIoU   : 42.07%
+Per-Class IoU  :
+    road           : 86.04%
+    sidewalk       : 5.41%
+    building       : 69.99%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 44.97%
+    traffic light  : 35.57%
+    traffic sign   : 53.48%
+    vegetation     : 89.26%
+    terrain        : 44.25%
+    sky            : 73.14%
+    person         : 79.89%
+    rider          : 0.00%
+    car            : 91.15%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [177/267]: frankfurt_000001_050149
+Inference Time : 0.0694 s
+Overall mIoU   : 57.34%
+Per-Class IoU  :
+    road           : 97.08%
+    sidewalk       : 64.78%
+    building       : 70.20%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 61.04%
+    traffic light  : 39.98%
+    traffic sign   : 65.86%
+    vegetation     : 90.45%
+    terrain        : 28.48%
+    sky            : 73.05%
+    person         : 35.97%
+    rider          : 32.53%
+    car            : 81.69%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.67%
+--------------------------------------------------
+Image [178/267]: frankfurt_000001_050686
+Inference Time : 0.0635 s
+Overall mIoU   : 63.09%
+Per-Class IoU  :
+    road           : 93.69%
+    sidewalk       : 38.27%
+    building       : 70.95%
+    wall           : 2.21%
+    fence          : N/A
+    pole           : 53.52%
+    traffic light  : 78.36%
+    traffic sign   : 60.35%
+    vegetation     : 85.61%
+    terrain        : N/A
+    sky            : 91.58%
+    person         : 24.61%
+    rider          : N/A
+    car            : 94.81%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [179/267]: frankfurt_000001_051516
+Inference Time : 0.0661 s
+Overall mIoU   : 46.55%
+Per-Class IoU  :
+    road           : 82.51%
+    sidewalk       : 64.58%
+    building       : 0.00%
+    wall           : 12.21%
+    fence          : 57.39%
+    pole           : 67.63%
+    traffic light  : 69.68%
+    traffic sign   : 27.68%
+    vegetation     : 96.15%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 80.80%
+    rider          : N/A
+    car            : 0.00%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [180/267]: frankfurt_000001_051737
+Inference Time : 0.0635 s
+Overall mIoU   : 55.90%
+Per-Class IoU  :
+    road           : 98.00%
+    sidewalk       : 90.97%
+    building       : 91.87%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 29.68%
+    traffic light  : 49.53%
+    traffic sign   : 54.97%
+    vegetation     : 72.88%
+    terrain        : N/A
+    sky            : 78.29%
+    person         : 73.35%
+    rider          : 0.00%
+    car            : 87.15%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [181/267]: frankfurt_000001_051807
+Inference Time : 0.0593 s
+Overall mIoU   : 44.75%
+Per-Class IoU  :
+    road           : 99.07%
+    sidewalk       : 69.19%
+    building       : 83.68%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 13.14%
+    traffic light  : 64.67%
+    traffic sign   : 49.81%
+    vegetation     : 64.96%
+    terrain        : N/A
+    sky            : 65.50%
+    person         : 70.46%
+    rider          : 0.00%
+    car            : 90.79%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [182/267]: frankfurt_000001_052120
+Inference Time : 0.0731 s
+Overall mIoU   : 49.90%
+Per-Class IoU  :
+    road           : 99.22%
+    sidewalk       : 76.48%
+    building       : 94.03%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 16.95%
+    traffic light  : 0.00%
+    traffic sign   : 18.78%
+    vegetation     : 88.50%
+    terrain        : 4.20%
+    sky            : 88.00%
+    person         : 61.18%
+    rider          : N/A
+    car            : 95.66%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 55.62%
+--------------------------------------------------
+Image [183/267]: frankfurt_000001_052594
+Inference Time : 0.0642 s
+Overall mIoU   : 65.85%
+Per-Class IoU  :
+    road           : 98.86%
+    sidewalk       : 84.69%
+    building       : 93.51%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 48.03%
+    traffic light  : N/A
+    traffic sign   : 55.88%
+    vegetation     : 88.69%
+    terrain        : N/A
+    sky            : 90.75%
+    person         : 72.85%
+    rider          : 0.34%
+    car            : 93.32%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 63.30%
+--------------------------------------------------
+Image [184/267]: frankfurt_000001_053102
+Inference Time : 0.0633 s
+Overall mIoU   : 51.75%
+Per-Class IoU  :
+    road           : 99.51%
+    sidewalk       : 84.45%
+    building       : 95.48%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 58.42%
+    traffic light  : 0.00%
+    traffic sign   : 60.24%
+    vegetation     : 89.67%
+    terrain        : N/A
+    sky            : 91.07%
+    person         : 35.80%
+    rider          : 1.09%
+    car            : 92.41%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 68.14%
+--------------------------------------------------
+Image [185/267]: frankfurt_000001_054077
+Inference Time : 0.0677 s
+Overall mIoU   : 53.89%
+Per-Class IoU  :
+    road           : 98.66%
+    sidewalk       : 87.12%
+    building       : 92.03%
+    wall           : N/A
+    fence          : N/A
+    pole           : 50.39%
+    traffic light  : 26.17%
+    traffic sign   : 43.71%
+    vegetation     : N/A
+    terrain        : N/A
+    sky            : N/A
+    person         : 56.55%
+    rider          : 0.00%
+    car            : 77.01%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.19%
+--------------------------------------------------
+Image [186/267]: frankfurt_000001_054219
+Inference Time : 0.0693 s
+Overall mIoU   : 55.89%
+Per-Class IoU  :
+    road           : 97.98%
+    sidewalk       : 67.18%
+    building       : 81.91%
+    wall           : N/A
+    fence          : N/A
+    pole           : 35.77%
+    traffic light  : 62.97%
+    traffic sign   : 52.76%
+    vegetation     : 71.77%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 61.59%
+    rider          : 0.00%
+    car            : 93.55%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 45.16%
+--------------------------------------------------
+Image [187/267]: frankfurt_000001_054415
+Inference Time : 0.0694 s
+Overall mIoU   : 56.41%
+Per-Class IoU  :
+    road           : 98.78%
+    sidewalk       : 83.18%
+    building       : 89.40%
+    wall           : N/A
+    fence          : N/A
+    pole           : 35.79%
+    traffic light  : N/A
+    traffic sign   : 71.89%
+    vegetation     : 66.08%
+    terrain        : N/A
+    sky            : 79.07%
+    person         : 69.52%
+    rider          : 15.96%
+    car            : 93.38%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 30.22%
+--------------------------------------------------
+Image [188/267]: frankfurt_000001_054640
+Inference Time : 0.0590 s
+Overall mIoU   : 55.23%
+Per-Class IoU  :
+    road           : 98.02%
+    sidewalk       : 81.50%
+    building       : 85.95%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 44.65%
+    traffic light  : 0.00%
+    traffic sign   : 77.72%
+    vegetation     : 83.80%
+    terrain        : 0.00%
+    sky            : 81.97%
+    person         : 72.94%
+    rider          : 46.64%
+    car            : 90.31%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 64.92%
+--------------------------------------------------
+Image [189/267]: frankfurt_000001_054884
+Inference Time : 0.0626 s
+Overall mIoU   : 62.15%
+Per-Class IoU  :
+    road           : 98.80%
+    sidewalk       : 80.51%
+    building       : 88.98%
+    wall           : N/A
+    fence          : N/A
+    pole           : 42.23%
+    traffic light  : N/A
+    traffic sign   : 8.19%
+    vegetation     : 89.61%
+    terrain        : N/A
+    sky            : 85.64%
+    person         : 57.48%
+    rider          : 26.83%
+    car            : 93.40%
+    truck          : 74.91%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 61.33%
+--------------------------------------------------
+Image [190/267]: frankfurt_000001_055062
+Inference Time : 0.0662 s
+Overall mIoU   : 53.36%
+Per-Class IoU  :
+    road           : 98.95%
+    sidewalk       : 79.74%
+    building       : 92.94%
+    wall           : N/A
+    fence          : N/A
+    pole           : 40.35%
+    traffic light  : 0.00%
+    traffic sign   : 58.26%
+    vegetation     : 79.38%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 60.50%
+    rider          : 12.07%
+    car            : 89.12%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 82.37%
+--------------------------------------------------
+Image [191/267]: frankfurt_000001_055172
+Inference Time : 0.0641 s
+Overall mIoU   : 51.25%
+Per-Class IoU  :
+    road           : 93.40%
+    sidewalk       : 68.40%
+    building       : 93.22%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 22.73%
+    traffic light  : N/A
+    traffic sign   : 85.16%
+    vegetation     : 0.00%
+    terrain        : N/A
+    sky            : N/A
+    person         : 84.58%
+    rider          : N/A
+    car            : N/A
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 65.03%
+--------------------------------------------------
+Image [192/267]: frankfurt_000001_055306
+Inference Time : 0.0679 s
+Overall mIoU   : 41.64%
+Per-Class IoU  :
+    road           : 97.41%
+    sidewalk       : 90.87%
+    building       : 91.53%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 41.82%
+    traffic light  : 0.00%
+    traffic sign   : 12.75%
+    vegetation     : 65.60%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 78.39%
+    rider          : 60.35%
+    car            : 29.00%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 15.18%
+--------------------------------------------------
+Image [193/267]: frankfurt_000001_055387
+Inference Time : 0.0659 s
+Overall mIoU   : 46.41%
+Per-Class IoU  :
+    road           : 98.31%
+    sidewalk       : 82.72%
+    building       : 83.31%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 25.69%
+    traffic light  : N/A
+    traffic sign   : 49.59%
+    vegetation     : 80.92%
+    terrain        : 0.00%
+    sky            : 0.00%
+    person         : 44.73%
+    rider          : 0.00%
+    car            : 28.39%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 69.16%
+    bicycle        : 86.97%
+--------------------------------------------------
+Image [194/267]: frankfurt_000001_055538
+Inference Time : 0.0687 s
+Overall mIoU   : 55.07%
+Per-Class IoU  :
+    road           : 98.19%
+    sidewalk       : 70.45%
+    building       : 89.33%
+    wall           : 6.68%
+    fence          : 0.00%
+    pole           : 50.38%
+    traffic light  : 0.00%
+    traffic sign   : 78.34%
+    vegetation     : 85.09%
+    terrain        : N/A
+    sky            : 87.66%
+    person         : 61.35%
+    rider          : 63.28%
+    car            : 76.43%
+    truck          : N/A
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 58.89%
+--------------------------------------------------
+Image [195/267]: frankfurt_000001_055603
+Inference Time : 0.0641 s
+Overall mIoU   : 56.88%
+Per-Class IoU  :
+    road           : 98.41%
+    sidewalk       : 85.33%
+    building       : 81.32%
+    wall           : 61.43%
+    fence          : 0.00%
+    pole           : 67.96%
+    traffic light  : 0.00%
+    traffic sign   : 70.41%
+    vegetation     : 86.69%
+    terrain        : N/A
+    sky            : 94.77%
+    person         : 66.35%
+    rider          : 0.00%
+    car            : 80.15%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 60.37%
+--------------------------------------------------
+Image [196/267]: frankfurt_000001_055709
+Inference Time : 0.0677 s
+Overall mIoU   : 53.50%
+Per-Class IoU  :
+    road           : 98.07%
+    sidewalk       : 80.90%
+    building       : 82.95%
+    wall           : 45.19%
+    fence          : 0.00%
+    pole           : 40.90%
+    traffic light  : 0.00%
+    traffic sign   : 43.01%
+    vegetation     : 85.47%
+    terrain        : N/A
+    sky            : 94.18%
+    person         : 53.14%
+    rider          : 41.33%
+    car            : 74.79%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 62.52%
+--------------------------------------------------
+Image [197/267]: frankfurt_000001_056580
+Inference Time : 0.0614 s
+Overall mIoU   : 39.83%
+Per-Class IoU  :
+    road           : 96.88%
+    sidewalk       : 44.34%
+    building       : 82.19%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 29.02%
+    traffic light  : 18.25%
+    traffic sign   : 36.95%
+    vegetation     : 84.07%
+    terrain        : 0.00%
+    sky            : 88.10%
+    person         : 68.35%
+    rider          : 0.00%
+    car            : 89.18%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [198/267]: frankfurt_000001_057181
+Inference Time : 0.0649 s
+Overall mIoU   : 37.48%
+Per-Class IoU  :
+    road           : 95.85%
+    sidewalk       : 51.83%
+    building       : 81.41%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 34.49%
+    traffic light  : 28.35%
+    traffic sign   : 48.43%
+    vegetation     : 82.99%
+    terrain        : 8.17%
+    sky            : 88.04%
+    person         : 80.15%
+    rider          : 0.00%
+    car            : 37.47%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [199/267]: frankfurt_000001_057478
+Inference Time : 0.0715 s
+Overall mIoU   : 47.22%
+Per-Class IoU  :
+    road           : 98.02%
+    sidewalk       : 46.55%
+    building       : 82.17%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 36.17%
+    traffic light  : 42.16%
+    traffic sign   : 52.65%
+    vegetation     : 84.02%
+    terrain        : N/A
+    sky            : 87.51%
+    person         : 77.56%
+    rider          : 38.27%
+    car            : 60.42%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 50.02%
+--------------------------------------------------
+Image [200/267]: frankfurt_000001_057954
+Inference Time : 0.0587 s
+Overall mIoU   : 45.37%
+Per-Class IoU  :
+    road           : 97.27%
+    sidewalk       : 67.11%
+    building       : 86.35%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 40.23%
+    traffic light  : 51.71%
+    traffic sign   : 62.56%
+    vegetation     : 61.88%
+    terrain        : N/A
+    sky            : 87.98%
+    person         : 80.05%
+    rider          : 0.00%
+    car            : 0.00%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [201/267]: frankfurt_000001_058057
+Inference Time : 0.0617 s
+Overall mIoU   : 39.78%
+Per-Class IoU  :
+    road           : 98.17%
+    sidewalk       : 0.00%
+    building       : 77.32%
+    wall           : N/A
+    fence          : N/A
+    pole           : 18.85%
+    traffic light  : 0.00%
+    traffic sign   : 0.00%
+    vegetation     : 93.40%
+    terrain        : 0.00%
+    sky            : 95.51%
+    person         : 0.00%
+    rider          : N/A
+    car            : 83.99%
+    truck          : 0.00%
+    bus            : 89.75%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [202/267]: frankfurt_000001_058176
+Inference Time : 0.0628 s
+Overall mIoU   : 51.07%
+Per-Class IoU  :
+    road           : 98.83%
+    sidewalk       : 0.00%
+    building       : 80.22%
+    wall           : N/A
+    fence          : N/A
+    pole           : 21.39%
+    traffic light  : 23.05%
+    traffic sign   : 80.52%
+    vegetation     : 89.46%
+    terrain        : 0.00%
+    sky            : 89.02%
+    person         : 5.91%
+    rider          : N/A
+    car            : 88.39%
+    truck          : 0.00%
+    bus            : 79.98%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 58.21%
+--------------------------------------------------
+Image [203/267]: frankfurt_000001_058504
+Inference Time : 0.0614 s
+Overall mIoU   : 52.88%
+Per-Class IoU  :
+    road           : 98.96%
+    sidewalk       : 65.88%
+    building       : 89.60%
+    wall           : N/A
+    fence          : N/A
+    pole           : 13.30%
+    traffic light  : 0.00%
+    traffic sign   : 21.62%
+    vegetation     : 90.37%
+    terrain        : N/A
+    sky            : 92.68%
+    person         : 16.03%
+    rider          : N/A
+    car            : 93.20%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [204/267]: frankfurt_000001_058914
+Inference Time : 0.0645 s
+Overall mIoU   : 42.66%
+Per-Class IoU  :
+    road           : 96.39%
+    sidewalk       : 51.21%
+    building       : 92.82%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 28.37%
+    traffic light  : 19.40%
+    traffic sign   : 47.01%
+    vegetation     : 73.20%
+    terrain        : N/A
+    sky            : 94.28%
+    person         : 84.72%
+    rider          : 0.00%
+    car            : 52.54%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [205/267]: frankfurt_000001_059119
+Inference Time : 0.0663 s
+Overall mIoU   : 46.16%
+Per-Class IoU  :
+    road           : 95.89%
+    sidewalk       : 61.75%
+    building       : 93.04%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 41.63%
+    traffic light  : 26.48%
+    traffic sign   : 37.48%
+    vegetation     : 65.53%
+    terrain        : N/A
+    sky            : 95.33%
+    person         : 84.94%
+    rider          : 0.00%
+    car            : 28.08%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 16.12%
+--------------------------------------------------
+Image [206/267]: frankfurt_000001_059642
+Inference Time : 0.0597 s
+Overall mIoU   : 46.07%
+Per-Class IoU  :
+    road           : 98.27%
+    sidewalk       : 87.77%
+    building       : 95.43%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 59.23%
+    traffic light  : 15.53%
+    traffic sign   : 9.82%
+    vegetation     : 63.44%
+    terrain        : N/A
+    sky            : 95.10%
+    person         : 60.67%
+    rider          : 0.00%
+    car            : 92.61%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 13.24%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [207/267]: frankfurt_000001_059789
+Inference Time : 0.0670 s
+Overall mIoU   : 59.42%
+Per-Class IoU  :
+    road           : 93.42%
+    sidewalk       : 23.68%
+    building       : 91.74%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 43.79%
+    traffic light  : 39.26%
+    traffic sign   : 82.62%
+    vegetation     : 82.42%
+    terrain        : N/A
+    sky            : 92.42%
+    person         : 73.40%
+    rider          : N/A
+    car            : 90.33%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [208/267]: frankfurt_000001_060135
+Inference Time : 0.0690 s
+Overall mIoU   : 33.33%
+Per-Class IoU  :
+    road           : 93.38%
+    sidewalk       : 80.02%
+    building       : 82.65%
+    wall           : 0.00%
+    fence          : 1.02%
+    pole           : 36.28%
+    traffic light  : 14.19%
+    traffic sign   : 13.54%
+    vegetation     : 88.52%
+    terrain        : 6.21%
+    sky            : 92.07%
+    person         : N/A
+    rider          : N/A
+    car            : 25.47%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [209/267]: frankfurt_000001_060422
+Inference Time : 0.0633 s
+Overall mIoU   : 42.68%
+Per-Class IoU  :
+    road           : 99.26%
+    sidewalk       : 34.15%
+    building       : 90.20%
+    wall           : N/A
+    fence          : N/A
+    pole           : 7.34%
+    traffic light  : 0.00%
+    traffic sign   : 10.04%
+    vegetation     : 80.40%
+    terrain        : N/A
+    sky            : 96.36%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 94.41%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [210/267]: frankfurt_000001_060545
+Inference Time : 0.0658 s
+Overall mIoU   : 47.12%
+Per-Class IoU  :
+    road           : 99.14%
+    sidewalk       : 75.18%
+    building       : 90.25%
+    wall           : 33.56%
+    fence          : 0.00%
+    pole           : 16.84%
+    traffic light  : 26.20%
+    traffic sign   : 14.94%
+    vegetation     : 80.01%
+    terrain        : N/A
+    sky            : 93.56%
+    person         : 35.93%
+    rider          : 39.29%
+    car            : 81.33%
+    truck          : 30.10%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 37.58%
+--------------------------------------------------
+Image [211/267]: frankfurt_000001_060906
+Inference Time : 0.0688 s
+Overall mIoU   : 53.97%
+Per-Class IoU  :
+    road           : 97.38%
+    sidewalk       : 66.08%
+    building       : 65.10%
+    wall           : 0.00%
+    fence          : 79.99%
+    pole           : 37.76%
+    traffic light  : 16.89%
+    traffic sign   : 0.00%
+    vegetation     : 85.29%
+    terrain        : N/A
+    sky            : 96.54%
+    person         : 66.70%
+    rider          : 53.36%
+    car            : 94.09%
+    truck          : 46.02%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 58.35%
+--------------------------------------------------
+Image [212/267]: frankfurt_000001_061682
+Inference Time : 0.0589 s
+Overall mIoU   : 48.18%
+Per-Class IoU  :
+    road           : 98.99%
+    sidewalk       : 85.66%
+    building       : 68.48%
+    wall           : 38.22%
+    fence          : 17.10%
+    pole           : 49.72%
+    traffic light  : 23.69%
+    traffic sign   : 0.00%
+    vegetation     : 82.22%
+    terrain        : N/A
+    sky            : 95.91%
+    person         : 49.78%
+    rider          : 32.33%
+    car            : 88.93%
+    truck          : 40.51%
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 47.55%
+--------------------------------------------------
+Image [213/267]: frankfurt_000001_061763
+Inference Time : 0.0708 s
+Overall mIoU   : 66.21%
+Per-Class IoU  :
+    road           : 98.63%
+    sidewalk       : 75.17%
+    building       : 68.51%
+    wall           : 54.23%
+    fence          : 47.30%
+    pole           : 45.30%
+    traffic light  : 0.00%
+    traffic sign   : 67.05%
+    vegetation     : 81.05%
+    terrain        : N/A
+    sky            : 96.85%
+    person         : 81.06%
+    rider          : 55.81%
+    car            : 97.00%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 58.97%
+--------------------------------------------------
+Image [214/267]: frankfurt_000001_062016
+Inference Time : 0.0713 s
+Overall mIoU   : 53.60%
+Per-Class IoU  :
+    road           : 99.63%
+    sidewalk       : 83.65%
+    building       : 88.36%
+    wall           : 52.18%
+    fence          : 11.73%
+    pole           : 35.13%
+    traffic light  : 37.38%
+    traffic sign   : 41.57%
+    vegetation     : 92.71%
+    terrain        : N/A
+    sky            : 94.72%
+    person         : 48.86%
+    rider          : N/A
+    car            : 50.01%
+    truck          : N/A
+    bus            : 14.47%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [215/267]: frankfurt_000001_062250
+Inference Time : 0.0584 s
+Overall mIoU   : 49.35%
+Per-Class IoU  :
+    road           : 97.34%
+    sidewalk       : 20.55%
+    building       : 89.01%
+    wall           : 0.00%
+    fence          : 21.73%
+    pole           : 39.47%
+    traffic light  : 38.33%
+    traffic sign   : 48.64%
+    vegetation     : 82.29%
+    terrain        : 32.86%
+    sky            : 95.69%
+    person         : 0.00%
+    rider          : N/A
+    car            : 79.76%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 45.22%
+--------------------------------------------------
+Image [216/267]: frankfurt_000001_062396
+Inference Time : 0.0674 s
+Overall mIoU   : 56.84%
+Per-Class IoU  :
+    road           : 98.99%
+    sidewalk       : 68.04%
+    building       : 93.05%
+    wall           : 0.00%
+    fence          : 80.00%
+    pole           : 23.31%
+    traffic light  : 60.98%
+    traffic sign   : 46.70%
+    vegetation     : 87.65%
+    terrain        : 11.46%
+    sky            : 95.66%
+    person         : 65.21%
+    rider          : N/A
+    car            : 68.31%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 53.29%
+--------------------------------------------------
+Image [217/267]: frankfurt_000001_062509
+Inference Time : 0.0596 s
+Overall mIoU   : 55.77%
+Per-Class IoU  :
+    road           : 99.49%
+    sidewalk       : 89.30%
+    building       : 95.73%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 37.19%
+    traffic light  : 12.98%
+    traffic sign   : 53.64%
+    vegetation     : N/A
+    terrain        : N/A
+    sky            : 95.79%
+    person         : 51.77%
+    rider          : N/A
+    car            : 93.01%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 40.38%
+--------------------------------------------------
+Image [218/267]: frankfurt_000001_062653
+Inference Time : 0.0648 s
+Overall mIoU   : 50.81%
+Per-Class IoU  :
+    road           : 95.21%
+    sidewalk       : 62.59%
+    building       : 93.48%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 52.67%
+    traffic light  : 43.67%
+    traffic sign   : 87.54%
+    vegetation     : 56.40%
+    terrain        : 29.39%
+    sky            : 37.20%
+    person         : 57.65%
+    rider          : N/A
+    car            : 69.11%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 77.29%
+--------------------------------------------------
+Image [219/267]: frankfurt_000001_062793
+Inference Time : 0.0633 s
+Overall mIoU   : 43.00%
+Per-Class IoU  :
+    road           : 99.00%
+    sidewalk       : 79.71%
+    building       : 89.44%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 47.56%
+    traffic light  : 13.62%
+    traffic sign   : 63.28%
+    vegetation     : 91.91%
+    terrain        : 0.00%
+    sky            : 89.58%
+    person         : 66.50%
+    rider          : 0.00%
+    car            : 59.49%
+    truck          : 0.00%
+    bus            : 2.21%
+    train          : N/A
+    motorcycle     : 28.71%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [220/267]: frankfurt_000001_063045
+Inference Time : 0.0630 s
+Overall mIoU   : 56.05%
+Per-Class IoU  :
+    road           : 96.70%
+    sidewalk       : 87.74%
+    building       : 89.12%
+    wall           : N/A
+    fence          : 32.51%
+    pole           : 61.05%
+    traffic light  : 57.58%
+    traffic sign   : 49.61%
+    vegetation     : 88.34%
+    terrain        : 0.12%
+    sky            : 91.30%
+    person         : 73.29%
+    rider          : 0.00%
+    car            : 76.49%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 36.88%
+--------------------------------------------------
+Image [221/267]: frankfurt_000001_064130
+Inference Time : 0.0664 s
+Overall mIoU   : 45.10%
+Per-Class IoU  :
+    road           : 96.06%
+    sidewalk       : 86.28%
+    building       : 89.52%
+    wall           : N/A
+    fence          : 0.23%
+    pole           : 43.75%
+    traffic light  : N/A
+    traffic sign   : 36.46%
+    vegetation     : 85.31%
+    terrain        : N/A
+    sky            : 94.23%
+    person         : 23.56%
+    rider          : 0.00%
+    car            : 28.31%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 12.46%
+    bicycle        : 35.17%
+--------------------------------------------------
+Image [222/267]: frankfurt_000001_064305
+Inference Time : 0.0567 s
+Overall mIoU   : 50.66%
+Per-Class IoU  :
+    road           : 98.85%
+    sidewalk       : 36.28%
+    building       : 92.37%
+    wall           : 0.00%
+    fence          : 40.38%
+    pole           : 29.48%
+    traffic light  : N/A
+    traffic sign   : 11.38%
+    vegetation     : 85.02%
+    terrain        : N/A
+    sky            : 89.51%
+    person         : 30.33%
+    rider          : 0.00%
+    car            : 73.95%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 53.59%
+    bicycle        : 68.05%
+--------------------------------------------------
+Image [223/267]: frankfurt_000001_064651
+Inference Time : 0.0626 s
+Overall mIoU   : 52.13%
+Per-Class IoU  :
+    road           : 98.77%
+    sidewalk       : 37.34%
+    building       : 83.19%
+    wall           : 0.13%
+    fence          : 0.00%
+    pole           : 25.07%
+    traffic light  : N/A
+    traffic sign   : 43.45%
+    vegetation     : 93.81%
+    terrain        : N/A
+    sky            : 95.45%
+    person         : 0.00%
+    rider          : N/A
+    car            : 96.25%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [224/267]: frankfurt_000001_064798
+Inference Time : 0.0639 s
+Overall mIoU   : 67.28%
+Per-Class IoU  :
+    road           : 98.90%
+    sidewalk       : 81.62%
+    building       : 94.90%
+    wall           : 9.31%
+    fence          : 39.60%
+    pole           : 36.83%
+    traffic light  : N/A
+    traffic sign   : 64.92%
+    vegetation     : 90.41%
+    terrain        : N/A
+    sky            : 95.72%
+    person         : 47.14%
+    rider          : N/A
+    car            : 95.04%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 52.91%
+--------------------------------------------------
+Image [225/267]: frankfurt_000001_064925
+Inference Time : 0.0614 s
+Overall mIoU   : 58.37%
+Per-Class IoU  :
+    road           : 98.85%
+    sidewalk       : 38.87%
+    building       : 95.22%
+    wall           : N/A
+    fence          : N/A
+    pole           : 26.63%
+    traffic light  : N/A
+    traffic sign   : 46.49%
+    vegetation     : 86.16%
+    terrain        : N/A
+    sky            : 96.73%
+    person         : 57.27%
+    rider          : 0.00%
+    car            : 95.89%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [226/267]: frankfurt_000001_065160
+Inference Time : 0.0620 s
+Overall mIoU   : 52.89%
+Per-Class IoU  :
+    road           : 98.62%
+    sidewalk       : 62.47%
+    building       : 89.03%
+    wall           : 19.49%
+    fence          : 43.85%
+    pole           : 44.96%
+    traffic light  : N/A
+    traffic sign   : 46.81%
+    vegetation     : 90.86%
+    terrain        : N/A
+    sky            : 94.97%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 96.45%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [227/267]: frankfurt_000001_065617
+Inference Time : 0.0710 s
+Overall mIoU   : 64.80%
+Per-Class IoU  :
+    road           : 99.09%
+    sidewalk       : 84.89%
+    building       : 81.81%
+    wall           : 64.38%
+    fence          : 74.14%
+    pole           : 36.58%
+    traffic light  : N/A
+    traffic sign   : 47.87%
+    vegetation     : 93.54%
+    terrain        : 26.32%
+    sky            : 89.22%
+    person         : 16.43%
+    rider          : 47.87%
+    car            : 91.58%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 53.41%
+--------------------------------------------------
+Image [228/267]: frankfurt_000001_065850
+Inference Time : 0.0674 s
+Overall mIoU   : 46.24%
+Per-Class IoU  :
+    road           : 96.02%
+    sidewalk       : 84.85%
+    building       : 50.95%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 42.02%
+    traffic light  : 0.00%
+    traffic sign   : 51.84%
+    vegetation     : 89.46%
+    terrain        : 9.07%
+    sky            : 0.00%
+    person         : 80.72%
+    rider          : N/A
+    car            : 84.53%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 57.82%
+--------------------------------------------------
+Image [229/267]: frankfurt_000001_066092
+Inference Time : 0.0645 s
+Overall mIoU   : 41.78%
+Per-Class IoU  :
+    road           : 94.76%
+    sidewalk       : 11.66%
+    building       : 79.37%
+    wall           : 0.00%
+    fence          : 52.51%
+    pole           : 27.10%
+    traffic light  : 42.17%
+    traffic sign   : 42.93%
+    vegetation     : 58.04%
+    terrain        : 37.72%
+    sky            : N/A
+    person         : 72.60%
+    rider          : 0.00%
+    car            : 80.18%
+    truck          : N/A
+    bus            : 0.00%
+    train          : 69.36%
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [230/267]: frankfurt_000001_066438
+Inference Time : 0.0655 s
+Overall mIoU   : 44.65%
+Per-Class IoU  :
+    road           : 94.77%
+    sidewalk       : 74.31%
+    building       : 79.97%
+    wall           : 1.94%
+    fence          : 7.52%
+    pole           : 13.86%
+    traffic light  : N/A
+    traffic sign   : 23.54%
+    vegetation     : 92.12%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 62.13%
+    rider          : 0.00%
+    car            : 77.22%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 53.07%
+--------------------------------------------------
+Image [231/267]: frankfurt_000001_066574
+Inference Time : 0.0655 s
+Overall mIoU   : 32.44%
+Per-Class IoU  :
+    road           : 74.55%
+    sidewalk       : 23.53%
+    building       : 73.79%
+    wall           : 0.00%
+    fence          : 12.12%
+    pole           : 20.35%
+    traffic light  : 32.77%
+    traffic sign   : 41.55%
+    vegetation     : 73.27%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 30.01%
+    rider          : 3.49%
+    car            : 62.38%
+    truck          : N/A
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 38.80%
+--------------------------------------------------
+Image [232/267]: frankfurt_000001_066832
+Inference Time : 0.0671 s
+Overall mIoU   : 43.87%
+Per-Class IoU  :
+    road           : 95.11%
+    sidewalk       : 9.35%
+    building       : 84.62%
+    wall           : 0.00%
+    fence          : 32.72%
+    pole           : 0.95%
+    traffic light  : 37.42%
+    traffic sign   : 25.01%
+    vegetation     : 66.04%
+    terrain        : 49.02%
+    sky            : N/A
+    person         : 74.93%
+    rider          : 39.56%
+    car            : 83.74%
+    truck          : N/A
+    bus            : 5.10%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 54.49%
+--------------------------------------------------
+Image [233/267]: frankfurt_000001_067092
+Inference Time : 0.0660 s
+Overall mIoU   : 52.34%
+Per-Class IoU  :
+    road           : 99.45%
+    sidewalk       : 0.00%
+    building       : 77.41%
+    wall           : N/A
+    fence          : N/A
+    pole           : 53.08%
+    traffic light  : N/A
+    traffic sign   : 41.33%
+    vegetation     : 82.50%
+    terrain        : N/A
+    sky            : 49.75%
+    person         : 48.38%
+    rider          : N/A
+    car            : 96.66%
+    truck          : 0.00%
+    bus            : 79.50%
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [234/267]: frankfurt_000001_067178
+Inference Time : 0.0659 s
+Overall mIoU   : 42.39%
+Per-Class IoU  :
+    road           : 99.31%
+    sidewalk       : 12.79%
+    building       : 79.99%
+    wall           : N/A
+    fence          : N/A
+    pole           : 21.63%
+    traffic light  : 0.00%
+    traffic sign   : 74.71%
+    vegetation     : 81.55%
+    terrain        : N/A
+    sky            : 20.72%
+    person         : 32.88%
+    rider          : 0.00%
+    car            : 92.65%
+    truck          : N/A
+    bus            : 34.87%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [235/267]: frankfurt_000001_067295
+Inference Time : 0.0663 s
+Overall mIoU   : 46.68%
+Per-Class IoU  :
+    road           : 97.93%
+    sidewalk       : 75.50%
+    building       : 83.22%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 32.43%
+    traffic light  : 12.04%
+    traffic sign   : 12.52%
+    vegetation     : 80.87%
+    terrain        : N/A
+    sky            : 52.18%
+    person         : 72.94%
+    rider          : 58.15%
+    car            : 82.63%
+    truck          : 0.00%
+    bus            : 32.36%
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 54.04%
+--------------------------------------------------
+Image [236/267]: frankfurt_000001_067474
+Inference Time : 0.0580 s
+Overall mIoU   : 58.23%
+Per-Class IoU  :
+    road           : 98.37%
+    sidewalk       : 71.10%
+    building       : 92.37%
+    wall           : 0.00%
+    fence          : 49.12%
+    pole           : 45.60%
+    traffic light  : 52.18%
+    traffic sign   : 51.42%
+    vegetation     : 89.32%
+    terrain        : 0.00%
+    sky            : 81.93%
+    person         : 77.31%
+    rider          : N/A
+    car            : 71.66%
+    truck          : 0.00%
+    bus            : 91.24%
+    train          : N/A
+    motorcycle     : 58.68%
+    bicycle        : 59.64%
+--------------------------------------------------
+Image [237/267]: frankfurt_000001_067735
+Inference Time : 0.0646 s
+Overall mIoU   : 53.46%
+Per-Class IoU  :
+    road           : 98.44%
+    sidewalk       : 92.97%
+    building       : 89.29%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 0.00%
+    traffic light  : N/A
+    traffic sign   : 0.00%
+    vegetation     : 91.24%
+    terrain        : N/A
+    sky            : 95.13%
+    person         : 0.00%
+    rider          : 66.55%
+    car            : 95.34%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 63.34%
+    bicycle        : 2.63%
+--------------------------------------------------
+Image [238/267]: frankfurt_000001_068063
+Inference Time : 0.0672 s
+Overall mIoU   : 52.72%
+Per-Class IoU  :
+    road           : 98.44%
+    sidewalk       : 73.23%
+    building       : 83.27%
+    wall           : 0.00%
+    fence          : 40.62%
+    pole           : 27.43%
+    traffic light  : 36.89%
+    traffic sign   : 54.93%
+    vegetation     : 90.38%
+    terrain        : 12.63%
+    sky            : 95.43%
+    person         : 32.08%
+    rider          : N/A
+    car            : 92.79%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [239/267]: frankfurt_000001_068208
+Inference Time : 0.0639 s
+Overall mIoU   : 46.39%
+Per-Class IoU  :
+    road           : 96.58%
+    sidewalk       : 60.00%
+    building       : 81.97%
+    wall           : 6.77%
+    fence          : 33.30%
+    pole           : 40.26%
+    traffic light  : 42.11%
+    traffic sign   : 66.27%
+    vegetation     : 88.58%
+    terrain        : 29.84%
+    sky            : 93.23%
+    person         : 39.13%
+    rider          : 0.00%
+    car            : 63.94%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.24%
+--------------------------------------------------
+Image [240/267]: frankfurt_000001_068682
+Inference Time : 0.0605 s
+Overall mIoU   : 56.92%
+Per-Class IoU  :
+    road           : 96.92%
+    sidewalk       : 87.46%
+    building       : 65.14%
+    wall           : 42.12%
+    fence          : 42.15%
+    pole           : 43.79%
+    traffic light  : N/A
+    traffic sign   : 57.66%
+    vegetation     : 88.08%
+    terrain        : N/A
+    sky            : 97.01%
+    person         : 42.48%
+    rider          : 0.00%
+    car            : 77.13%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [241/267]: frankfurt_000001_068772
+Inference Time : 0.0663 s
+Overall mIoU   : 55.93%
+Per-Class IoU  :
+    road           : 98.36%
+    sidewalk       : 93.25%
+    building       : 92.67%
+    wall           : 13.49%
+    fence          : 84.13%
+    pole           : 18.98%
+    traffic light  : 0.00%
+    traffic sign   : 81.37%
+    vegetation     : 88.49%
+    terrain        : N/A
+    sky            : 96.10%
+    person         : 77.61%
+    rider          : 0.00%
+    car            : 94.43%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [242/267]: frankfurt_000001_069633
+Inference Time : 0.0625 s
+Overall mIoU   : 55.57%
+Per-Class IoU  :
+    road           : 99.08%
+    sidewalk       : 80.96%
+    building       : 92.47%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 37.04%
+    traffic light  : 49.31%
+    traffic sign   : 49.14%
+    vegetation     : 78.56%
+    terrain        : N/A
+    sky            : 96.82%
+    person         : 67.28%
+    rider          : 0.00%
+    car            : 87.92%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 39.42%
+--------------------------------------------------
+Image [243/267]: frankfurt_000001_070099
+Inference Time : 0.0682 s
+Overall mIoU   : 64.03%
+Per-Class IoU  :
+    road           : 97.01%
+    sidewalk       : 64.21%
+    building       : 86.33%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 44.99%
+    traffic light  : 60.78%
+    traffic sign   : 62.99%
+    vegetation     : 89.10%
+    terrain        : N/A
+    sky            : 89.24%
+    person         : 79.62%
+    rider          : N/A
+    car            : 94.10%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [244/267]: frankfurt_000001_071288
+Inference Time : 0.0660 s
+Overall mIoU   : 47.18%
+Per-Class IoU  :
+    road           : 99.17%
+    sidewalk       : 11.03%
+    building       : 83.52%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 42.58%
+    traffic light  : 43.92%
+    traffic sign   : 31.82%
+    vegetation     : 94.45%
+    terrain        : 64.93%
+    sky            : 93.95%
+    person         : 0.00%
+    rider          : N/A
+    car            : 95.08%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [245/267]: frankfurt_000001_071781
+Inference Time : 0.0680 s
+Overall mIoU   : 66.48%
+Per-Class IoU  :
+    road           : 99.10%
+    sidewalk       : 78.22%
+    building       : 83.88%
+    wall           : 49.33%
+    fence          : 80.60%
+    pole           : 54.20%
+    traffic light  : N/A
+    traffic sign   : 75.14%
+    vegetation     : 91.93%
+    terrain        : 64.62%
+    sky            : 91.66%
+    person         : 1.23%
+    rider          : N/A
+    car            : 94.39%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [246/267]: frankfurt_000001_072155
+Inference Time : 0.0626 s
+Overall mIoU   : 52.61%
+Per-Class IoU  :
+    road           : 98.32%
+    sidewalk       : 51.06%
+    building       : 63.88%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 33.89%
+    traffic light  : 53.62%
+    traffic sign   : 41.65%
+    vegetation     : 90.62%
+    terrain        : 76.40%
+    sky            : 88.15%
+    person         : 0.00%
+    rider          : N/A
+    car            : 86.32%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [247/267]: frankfurt_000001_072295
+Inference Time : 0.0647 s
+Overall mIoU   : 46.82%
+Per-Class IoU  :
+    road           : 97.73%
+    sidewalk       : 24.24%
+    building       : 76.43%
+    wall           : 0.00%
+    fence          : N/A
+    pole           : 27.81%
+    traffic light  : 13.37%
+    traffic sign   : 39.23%
+    vegetation     : 89.24%
+    terrain        : 10.32%
+    sky            : 91.91%
+    person         : N/A
+    rider          : N/A
+    car            : 91.55%
+    truck          : N/A
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [248/267]: frankfurt_000001_073088
+Inference Time : 0.0651 s
+Overall mIoU   : 48.16%
+Per-Class IoU  :
+    road           : 94.93%
+    sidewalk       : 62.37%
+    building       : 49.39%
+    wall           : 0.00%
+    fence          : 42.03%
+    pole           : 66.99%
+    traffic light  : 52.50%
+    traffic sign   : 45.86%
+    vegetation     : 89.68%
+    terrain        : 6.02%
+    sky            : 85.39%
+    person         : 64.36%
+    rider          : N/A
+    car            : 82.82%
+    truck          : 0.00%
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : N/A
+    bicycle        : 28.24%
+--------------------------------------------------
+Image [249/267]: frankfurt_000001_073243
+Inference Time : 0.0648 s
+Overall mIoU   : 34.43%
+Per-Class IoU  :
+    road           : 98.91%
+    sidewalk       : 0.00%
+    building       : 71.59%
+    wall           : 15.66%
+    fence          : 0.00%
+    pole           : 7.97%
+    traffic light  : 6.81%
+    traffic sign   : 28.15%
+    vegetation     : 91.88%
+    terrain        : 35.96%
+    sky            : 51.20%
+    person         : 0.00%
+    rider          : 2.56%
+    car            : 93.41%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 12.30%
+--------------------------------------------------
+Image [250/267]: frankfurt_000001_073464
+Inference Time : 0.0624 s
+Overall mIoU   : 49.48%
+Per-Class IoU  :
+    road           : 98.40%
+    sidewalk       : 8.13%
+    building       : 89.76%
+    wall           : 0.42%
+    fence          : 22.94%
+    pole           : 40.24%
+    traffic light  : 40.61%
+    traffic sign   : 61.58%
+    vegetation     : 86.12%
+    terrain        : N/A
+    sky            : 88.01%
+    person         : 0.00%
+    rider          : 49.62%
+    car            : 94.12%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 62.20%
+--------------------------------------------------
+Image [251/267]: frankfurt_000001_073911
+Inference Time : 0.0675 s
+Overall mIoU   : 56.47%
+Per-Class IoU  :
+    road           : 98.89%
+    sidewalk       : 74.17%
+    building       : 89.67%
+    wall           : N/A
+    fence          : 0.75%
+    pole           : 48.55%
+    traffic light  : 74.27%
+    traffic sign   : 50.76%
+    vegetation     : 92.84%
+    terrain        : 26.87%
+    sky            : 89.58%
+    person         : 25.02%
+    rider          : N/A
+    car            : 86.05%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 33.16%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [252/267]: frankfurt_000001_075296
+Inference Time : 0.0696 s
+Overall mIoU   : 63.20%
+Per-Class IoU  :
+    road           : 99.30%
+    sidewalk       : 88.57%
+    building       : 92.29%
+    wall           : N/A
+    fence          : N/A
+    pole           : 42.23%
+    traffic light  : 0.86%
+    traffic sign   : 75.88%
+    vegetation     : 88.64%
+    terrain        : 51.16%
+    sky            : 89.33%
+    person         : 69.65%
+    rider          : 0.00%
+    car            : 85.10%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 38.63%
+--------------------------------------------------
+Image [253/267]: frankfurt_000001_075984
+Inference Time : 0.0622 s
+Overall mIoU   : 43.88%
+Per-Class IoU  :
+    road           : 71.11%
+    sidewalk       : 51.75%
+    building       : 94.56%
+    wall           : 0.00%
+    fence          : 48.43%
+    pole           : 45.09%
+    traffic light  : 48.57%
+    traffic sign   : 40.49%
+    vegetation     : 83.99%
+    terrain        : 0.00%
+    sky            : 92.09%
+    person         : 3.53%
+    rider          : 23.68%
+    car            : 95.07%
+    truck          : N/A
+    bus            : 0.00%
+    train          : 61.83%
+    motorcycle     : 0.00%
+    bicycle        : 29.57%
+--------------------------------------------------
+Image [254/267]: frankfurt_000001_076502
+Inference Time : 0.0697 s
+Overall mIoU   : 59.71%
+Per-Class IoU  :
+    road           : 99.03%
+    sidewalk       : 77.08%
+    building       : 89.95%
+    wall           : 0.00%
+    fence          : 0.64%
+    pole           : 62.00%
+    traffic light  : 69.21%
+    traffic sign   : 17.37%
+    vegetation     : 83.51%
+    terrain        : 0.00%
+    sky            : 93.12%
+    person         : 81.46%
+    rider          : 75.52%
+    car            : 68.71%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 78.03%
+--------------------------------------------------
+Image [255/267]: frankfurt_000001_077092
+Inference Time : 0.0665 s
+Overall mIoU   : 39.98%
+Per-Class IoU  :
+    road           : 98.94%
+    sidewalk       : 27.45%
+    building       : 82.16%
+    wall           : N/A
+    fence          : N/A
+    pole           : 37.27%
+    traffic light  : 0.00%
+    traffic sign   : 69.27%
+    vegetation     : 86.03%
+    terrain        : N/A
+    sky            : 0.00%
+    person         : 65.54%
+    rider          : 0.00%
+    car            : 93.05%
+    truck          : N/A
+    bus            : N/A
+    train          : 0.00%
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [256/267]: frankfurt_000001_077233
+Inference Time : 0.0632 s
+Overall mIoU   : 47.58%
+Per-Class IoU  :
+    road           : 98.61%
+    sidewalk       : 45.45%
+    building       : 90.05%
+    wall           : N/A
+    fence          : N/A
+    pole           : 37.24%
+    traffic light  : 0.00%
+    traffic sign   : 53.31%
+    vegetation     : 85.55%
+    terrain        : N/A
+    sky            : 71.35%
+    person         : 59.38%
+    rider          : 0.00%
+    car            : 95.12%
+    truck          : N/A
+    bus            : 0.00%
+    train          : 15.84%
+    motorcycle     : N/A
+    bicycle        : 14.17%
+--------------------------------------------------
+Image [257/267]: frankfurt_000001_077434
+Inference Time : 0.0620 s
+Overall mIoU   : 46.13%
+Per-Class IoU  :
+    road           : 97.64%
+    sidewalk       : 88.53%
+    building       : 86.99%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 33.61%
+    traffic light  : 30.01%
+    traffic sign   : 51.20%
+    vegetation     : 91.44%
+    terrain        : 0.00%
+    sky            : N/A
+    person         : 62.63%
+    rider          : 5.45%
+    car            : 56.83%
+    truck          : 91.67%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 42.16%
+--------------------------------------------------
+Image [258/267]: frankfurt_000001_078803
+Inference Time : 0.0688 s
+Overall mIoU   : 46.50%
+Per-Class IoU  :
+    road           : 95.17%
+    sidewalk       : 47.37%
+    building       : 49.75%
+    wall           : 28.95%
+    fence          : 71.00%
+    pole           : 57.28%
+    traffic light  : 0.00%
+    traffic sign   : 27.42%
+    vegetation     : 89.75%
+    terrain        : 0.00%
+    sky            : 88.08%
+    person         : 23.57%
+    rider          : 0.00%
+    car            : 72.59%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : N/A
+--------------------------------------------------
+Image [259/267]: frankfurt_000001_079206
+Inference Time : 0.0618 s
+Overall mIoU   : 54.13%
+Per-Class IoU  :
+    road           : 97.58%
+    sidewalk       : 84.79%
+    building       : 80.49%
+    wall           : 1.68%
+    fence          : 28.27%
+    pole           : 42.09%
+    traffic light  : 46.20%
+    traffic sign   : 53.70%
+    vegetation     : 87.14%
+    terrain        : 0.00%
+    sky            : 90.80%
+    person         : 70.32%
+    rider          : 0.00%
+    car            : 86.96%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 41.89%
+--------------------------------------------------
+Image [260/267]: frankfurt_000001_080091
+Inference Time : 0.0626 s
+Overall mIoU   : 51.07%
+Per-Class IoU  :
+    road           : 96.55%
+    sidewalk       : 82.91%
+    building       : 92.66%
+    wall           : N/A
+    fence          : N/A
+    pole           : 22.59%
+    traffic light  : 12.92%
+    traffic sign   : 53.95%
+    vegetation     : 83.84%
+    terrain        : 0.00%
+    sky            : 79.10%
+    person         : 29.70%
+    rider          : N/A
+    car            : 93.36%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 16.35%
+--------------------------------------------------
+Image [261/267]: frankfurt_000001_080391
+Inference Time : 0.0631 s
+Overall mIoU   : 47.26%
+Per-Class IoU  :
+    road           : 97.65%
+    sidewalk       : 44.74%
+    building       : 81.26%
+    wall           : 0.00%
+    fence          : 12.88%
+    pole           : 19.07%
+    traffic light  : 0.00%
+    traffic sign   : 54.00%
+    vegetation     : 87.73%
+    terrain        : 55.63%
+    sky            : 84.08%
+    person         : 31.25%
+    rider          : N/A
+    car            : 93.36%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [262/267]: frankfurt_000001_080830
+Inference Time : 0.0675 s
+Overall mIoU   : 43.79%
+Per-Class IoU  :
+    road           : 96.34%
+    sidewalk       : 77.38%
+    building       : 87.89%
+    wall           : 11.01%
+    fence          : 51.66%
+    pole           : 20.24%
+    traffic light  : 31.74%
+    traffic sign   : 5.05%
+    vegetation     : 90.84%
+    terrain        : 7.60%
+    sky            : 85.00%
+    person         : 1.04%
+    rider          : N/A
+    car            : 91.08%
+    truck          : N/A
+    bus            : 0.00%
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [263/267]: frankfurt_000001_082087
+Inference Time : 0.0618 s
+Overall mIoU   : 41.74%
+Per-Class IoU  :
+    road           : 88.21%
+    sidewalk       : 78.84%
+    building       : 90.45%
+    wall           : N/A
+    fence          : 54.34%
+    pole           : 8.80%
+    traffic light  : 0.00%
+    traffic sign   : 46.27%
+    vegetation     : 62.29%
+    terrain        : N/A
+    sky            : 92.81%
+    person         : 0.00%
+    rider          : N/A
+    car            : 51.53%
+    truck          : 0.00%
+    bus            : 0.00%
+    train          : 54.71%
+    motorcycle     : 0.00%
+    bicycle        : 39.56%
+--------------------------------------------------
+Image [264/267]: frankfurt_000001_082466
+Inference Time : 0.0730 s
+Overall mIoU   : 40.94%
+Per-Class IoU  :
+    road           : 98.05%
+    sidewalk       : 81.90%
+    building       : 78.25%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 37.21%
+    traffic light  : 0.00%
+    traffic sign   : 69.65%
+    vegetation     : 59.97%
+    terrain        : N/A
+    sky            : 89.60%
+    person         : 0.00%
+    rider          : 0.00%
+    car            : 93.62%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 5.86%
+    bicycle        : 0.00%
+--------------------------------------------------
+Image [265/267]: frankfurt_000001_083029
+Inference Time : 0.0654 s
+Overall mIoU   : 49.07%
+Per-Class IoU  :
+    road           : 98.07%
+    sidewalk       : 48.83%
+    building       : 84.05%
+    wall           : N/A
+    fence          : 0.00%
+    pole           : 35.12%
+    traffic light  : 35.47%
+    traffic sign   : 64.54%
+    vegetation     : 83.84%
+    terrain        : 37.71%
+    sky            : 93.38%
+    person         : 11.66%
+    rider          : 6.48%
+    car            : 50.24%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : N/A
+    bicycle        : 37.53%
+--------------------------------------------------
+Image [266/267]: frankfurt_000001_083199
+Inference Time : 0.0665 s
+Overall mIoU   : 41.23%
+Per-Class IoU  :
+    road           : 98.70%
+    sidewalk       : 64.66%
+    building       : 88.10%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 28.13%
+    traffic light  : 31.05%
+    traffic sign   : 51.97%
+    vegetation     : 85.69%
+    terrain        : 0.00%
+    sky            : 93.60%
+    person         : 0.00%
+    rider          : 23.57%
+    car            : 84.87%
+    truck          : 0.00%
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 48.11%
+    bicycle        : 2.52%
+--------------------------------------------------
+Image [267/267]: frankfurt_000001_083852
+Inference Time : 0.0653 s
+Overall mIoU   : 45.61%
+Per-Class IoU  :
+    road           : 99.20%
+    sidewalk       : 49.28%
+    building       : 90.48%
+    wall           : 0.00%
+    fence          : 0.00%
+    pole           : 32.05%
+    traffic light  : 24.43%
+    traffic sign   : 70.21%
+    vegetation     : 83.27%
+    terrain        : 45.34%
+    sky            : 94.46%
+    person         : 0.00%
+    rider          : N/A
+    car            : 95.43%
+    truck          : N/A
+    bus            : N/A
+    train          : N/A
+    motorcycle     : 0.00%
+    bicycle        : 0.00%
+--------------------------------------------------
+=== EVALUATION SUMMARY ===
+Top 3 Images (Highest mIoU):
+  1. Index 169/267 (frankfurt_000001_048196) - mIoU: 67.49%
+  2. Index 224/267 (frankfurt_000001_064798) - mIoU: 67.28%
+  3. Index 108/267 (frankfurt_000001_020287) - mIoU: 67.12%
+
+Bottom 3 Images (Lowest mIoU):
+  1. Index 138/267 (frankfurt_000001_034816) - mIoU: 30.58%
+  2. Index 231/267 (frankfurt_000001_066574) - mIoU: 32.44%
+  3. Index 126/267 (frankfurt_000001_029600) - mIoU: 33.10%
+==================================================

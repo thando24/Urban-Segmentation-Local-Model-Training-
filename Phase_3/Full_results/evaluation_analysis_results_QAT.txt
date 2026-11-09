@@ -1,0 +1,32 @@
+Cityscapes Evaluation Analysis
+============================================================
+Input file            : Data_files\evaluation_QAT.txt
+Images processed      : 267
+
+--- Overall Metrics (N/A entries ignored) ---
+Average Inference Time: 0.1010 s  (from 267 values)
+Overall mIoU          : 55.0850%  (from 267 values)
+
+--- Average IoU per Class (N/A entries ignored) ---
+Class                Avg IoU   Valid     N/A
+--------------------------------------------
+road                96.8907%     267       0
+sidewalk            67.5146%     266       1
+building            83.7811%     267       0
+wall                16.9231%     188      79
+fence               23.0168%     207      60
+pole                45.4705%     267       0
+traffic light       33.5376%     232      35
+traffic sign        54.6538%     265       2
+vegetation          84.8481%     263       4
+terrain             19.2660%     152     115
+sky                 83.9769%     246      21
+person              49.0037%     263       4
+rider               24.7646%     166     101
+car                 80.1739%     264       3
+truck               20.2406%      68     199
+bus                 33.4460%      70     197
+train               27.3617%      29     238
+motorcycle          18.2561%      85     182
+bicycle             37.3288%     233      34
+
